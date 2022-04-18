@@ -6,7 +6,7 @@ A seguir o histórico e metadados das versões utilizadas, organizadas por data 
 * [Mais recente](#2022-04-18)
 
 ## 2022-04-18
-Obtido de http://download.geofabrik.de/south-america/chile-latest.osm.pbf com [_resumo-hash_ MD5](https://en.wikipedia.org/wiki/MD5) confirmado, e os seguintes metadados e confirmações no [arquivo PBF](https://wiki.openstreetmap.org/wiki/PBF_Format) de *43 MiB*:
+Obtido de http://download.geofabrik.de/south-america/uruguay-latest.osm.pbf com [_resumo-hash_ MD5](https://en.wikipedia.org/wiki/MD5) confirmado, e os seguintes metadados e confirmações no [arquivo PBF](https://wiki.openstreetmap.org/wiki/PBF_Format) de *43 MiB*:
 
 * Evidência de licenciamento e licença: da mesma data na [Wayback Machine](https://web.archive.org), [evidência em openstreetmap.org/copyright](http://web.archive.org/web/20220418172233/https://www.openstreetmap.org/copyright) e [texto da licença em opendatacommons.org/licenses/odbl](http://web.archive.org/web/20220418172356/https://opendatacommons.org/licenses/odbl/). Portanto **ODbL**.
 
