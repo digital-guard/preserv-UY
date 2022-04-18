@@ -1,4 +1,4 @@
-## Dump OpensStreetMap Uruguay
+## Dump OpenStreetMap Uruguay
 Arquivos utilizados como fonte de dados principal deste repositório, e preservados nos repositórios do [Instituto AddressForAll](https://github.com/AddressForAll/preserv-UY). 
 O download destes arquivos em geral recebem o rótulo de `uruguay-latest.osm.pbf`. 
 A seguir o histórico e metadados das versões utilizadas, organizadas por data (ano-mês-dia).
