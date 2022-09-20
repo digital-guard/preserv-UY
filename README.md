@@ -1,7 +1,7 @@
 # preserv-UY
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Uruguay**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Uruguay se le asignó: en el contexto ISO 3166‑2 el geocódigo **UY** y el número **858**; en Wikidata el identificador [Q77](http://wikidata.org/entity/Q77); en OpenStreetMap el identificador de [*relación* 287072](http://osm.org/relation/287072).
+A Uruguay se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**UY**](https://en.wikipedia.org/wiki/ISO_3166-2:UY) y el número [**858**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q77](http://wikidata.org/entity/Q77); en OpenStreetMap el identificador de [*relación* 287072](http://osm.org/relation/287072).
 
 
 ## Organización territorial
