@@ -1,102 +1,102 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2524214,858,510,"Aeropuerto Internacional de Carrasco",CA,,-2524214,aeropuerto.internacional.carrasco,UY-CA-AeropuertoInternacionalCarrasco,,
-2524429,858,493,"Aguas Corrientes",CA,ACS,397975,aguas.corrientes,UY-CA-AguasCorrientes,,
-2524615,858,45,Araminda,CA,,-2524615,araminda,UY-CA-Araminda,,
-2524673,858,108,Argentino,CA,,-2524673,argentino,UY-CA-Argentino,,
-2527673,858,55,Atlántida,CA,,-2527673,atlantida,UY-CA-Atlantida,,
-2564503,858,506,"Barrio Cópola",CA,BCA,4863727,barrio.copola,UY-CA-BarrioCopola,,
-2564530,858,477,"Barrio La Lucha",CA,BLL,808948,barrio.lucha,UY-CA-BarrioLucha,,
-2564587,858,489,"Barrio Remanso",CA,,-2564587,barrio.remanso,UY-CA-BarrioRemanso,,
-2564867,858,69,"Barros Blancos",CA,BBS,6027170,barros.blancos,UY-CA-BarrosBlancos,,
-2529519,858,50,"Bello Horizonte",CA,,-2529519,bello.horizonte,UY-CA-BelloHorizonte,,
-2524823,858,43,Biarritz,CA,,-2524823,biarritz,UY-CA-Biarritz,,
-2574702,858,187,Bolívar,CA,BLV,891703,bolivar,UY-CA-Bolivar,,
-2574733,858,486,"Campo Militar",CA,,-2574733,campo.militar,UY-CA-CampoMilitar,,
-2574897,858,491,Canelones,CA,,-2574897,canelones,UY-CA-Canelones,,
-2575790,858,89,"Capilla de Cella",CA,,-2575790,capilla.cella,UY-CA-CapillaCella,,
-2575914,858,62,Carmel,CA,,-2575914,carmel,UY-CA-Carmel,,
-2576138,858,183,Castellanos,CA,,181267,castellanos,UY-CA-Castellanos,,
-2576691,858,54,"City Golf",CA,,-2576691,city.golf,UY-CA-CityGolf,,
-2535097,858,61,"Ciudad de la Costa",CA,CCA,869403,ciudad.la.costa,UY-CA-CiudadLaCosta,,
-2527817,858,51,"Costa Azul",CA,,-2527817,costa.azul,UY-CA-CostaAzul,,
-2577727,858,505,"Costa y Guillamón",CA,CYG,1136423,costa.y.guillamon,UY-CA-CostaYGuillamon,,
-2577734,858,80,"Cruz de los caminos",CA,,-2577734,cruz.caminos,UY-CA-CruzCaminos,,
-2524812,858,111,"Cuchilla Alta",CA,,-2524812,cuchilla.alta,UY-CA-CuchillaAlta,,
-2577800,858,66,"Cumbres de Carrasco",CA,,-2577800,cumbres.carrasco,UY-CA-CumbresCarrasco,,
-2524813,858,110,"El Galeón",CA,,-2524813,el.galeon,UY-CA-ElGaleon,,
-2577840,858,75,"Empalme Olmos",CA,EOS,630016,empalme.olmos,UY-CA-EmpalmeOlmos,,
-2578095,858,82,"Estacion Tapia",CA,TAP,121961,estacion.tapia,UY-CA-EstacionTapia,,
-2577991,858,77,"Estación Atlántida",CA,,-2577991,estacion.atlantida,UY-CA-EstacionAtlantida,,
-2527805,858,88,"Estación La Floresta",CA,,-2527805,estacion.floresta,UY-CA-EstacionFloresta,,
-2578022,858,84,"Estación Migues",CA,,-2578022,estacion.migues,UY-CA-EstacionMigues,,
-2578056,858,83,"Estación Pedrera",CA,EPA,1368999,estacion.pedrera,UY-CA-EstacionPedrera,,
-2588130,858,90,"Estación Piedras de Afilar",CA,,-2588130,estacion.piedras.afilar,UY-CA-EstacionPiedrasAfilar,,
-2530172,858,71,"Estanque de Pando",CA,,1369750,estanque.pando,UY-CA-EstanquePando,,
-2578297,858,57,"Fortín de Santa Rosa",CA,,-2578297,fortin.santa.rosa,UY-CA-FortinSantaRosa,,
-2584353,858,508,"Fraccionamiento Camino del Andaluz y Ruta 84",CA,FY8,635591,fraccionamiento.camino.andaluz.y.ruta.84,UY-CA-FraccionamientoCaminoAndaluzYRuta84,,
-2580402,858,480,"Fraccionamiento Progreso",CA,,-2580402,fraccionamiento.progreso,UY-CA-FraccionamientoProgreso,,
-2584700,858,469,"Fraccionamiento Ruta 74",CA,FR7,1440332,fraccionamiento.ruta.74,UY-CA-FraccionamientoRuta74,,
-7928095,858,509,"General Líber Seregni",CA,,-7928095,general.liber.seregni,UY-CA-GeneralLiberSeregni,,
-2529520,858,49,Guazuvirá,CA,,-2529520,guazuvira,UY-CA-Guazuvira,,
-2530173,858,78,"Jardines de Pando",CA,JDP,1604881,jardines.pando,UY-CA-JardinesPando,,
-2524704,858,107,Jaureguiberry,CA,,-2524704,jaureguiberry,UY-CA-Jaureguiberry,,
-2584855,858,468,"Joaquín Suárez",CA,JSZ,1005809,joaquin.suarez,UY-CA-JoaquinSuarez,,
-2586113,858,490,Juanicó,CA,,-2586113,juanico,UY-CA-Juanico,,
-2527806,858,87,"La Floresta",CA,LFA,6029683,la.floresta,UY-CA-LaFloresta,,
-2577865,858,76,"La Montañesa",CA,,-2577865,la.montanesa,UY-CA-LaMontanesa,,
-2586184,858,507,"La Paz",CA,LPZ,997833,la.paz,UY-CA-LaPaz,,
-2529708,858,46,"La Tuna",CA,,-2529708,la.tuna,UY-CA-LaTuna,,
-10410535,858,485,"Las Brujas",CA,LBS,110636202,las.brujas,UY-CA-LasBrujas,,
-2586358,858,475,"Las Piedras",CA,LPS,615470,las.piedras,UY-CA-LasPiedras,,
-2527759,858,52,"Las Toscas",CA,,-2527759,las.toscas,UY-CA-LasToscas,,
-2575933,858,63,"Lomas de Carrasco",CA,LDC,1868714,lomas.carrasco,UY-CA-LomasCarrasco,,
-2576537,858,487,"Los Cerrillos",CA,LCS,1007603,los.cerrillos,UY-CA-LosCerrillos,,
-2529599,858,47,"Los Titanes",CA,,-2529599,los.titanes,UY-CA-LosTitanes,,
-2578278,858,60,Marindia,CA,,-2578278,marindia,UY-CA-Marindia,,
-2578624,858,180,Migues,CA,MIG,29585,migues,UY-CA-Migues,,
-2578792,858,181,Montes,CA,MON,162416,montes,UY-CA-Montes,,
-2559864,858,65,Neptunia,CA,NEP,984189,neptunia,UY-CA-Neptunia,,
-2577877,858,73,Olmos,CA,,-2577877,olmos,UY-CA-Olmos,,
-2586519,858,70,Pando,CA,,-2586519,pando,UY-CA-Pando,,
-2584694,858,488,"Parada Cabrera",CA,,-2584694,parada.cabrera,UY-CA-ParadaCabrera,,
-2527760,858,53,"Parque del Plata",CA,,-2527760,parque.plata,UY-CA-ParquePlata,,
-2574898,858,460,"Paso Espinosa",CA,,-2574898,paso.espinosa,UY-CA-PasoEspinosa,,
-2574899,858,492,"Paso Palomeque",CA,,-2574899,paso.palomeque,UY-CA-PasoPalomeque,,
-2588126,858,454,"Paso de Pache",CA,,-2588126,paso.pache,UY-CA-PasoPache,,
-3216212,858,461,"Paso de la Cadena",CA,PCN,570722,paso.la.cadena,UY-CA-PasoLaCadena,,
-2577852,858,74,"Piedra del Toro",CA,,-2577852,piedra.toro,UY-CA-PiedraToro,,
-2588156,858,85,"Piedras de Afilar",CA,,-2588156,piedras.afilar,UY-CA-PiedrasAfilar,,
-2578279,858,58,Pinamar,CA,PIN,984779,pinamar,UY-CA-Pinamar,,
-2589684,858,478,Progreso,CA,,-2589684,progreso,UY-CA-Progreso,,
-2578899,858,68,"Quinta Los Horneros",CA,,-2578899,quinta.horneros,UY-CA-QuintaHorneros,,
-2578280,858,59,Salinas,CA,,-2578280,salinas,UY-CA-Salinas,,
-3216391,858,462,"San Antonio",CA,SAO,1005259,san.antonio,UY-CA-SanAntonio,,
-2591409,858,182,"San Bautista",CA,SBA,1005725,san.bautista,UY-CA-SanBautista,,
-2541726,858,81,"San Jacinto",CA,SJO,525163,san.jacinto,UY-CA-SanJacinto,,
-2529600,858,48,"San Luis",CA,,-2529600,san.luis,UY-CA-SanLuis,,
-1632970,858,185,"San Ramón",CA,SRN,1784539,san.ramon,UY-CA-SanRamon,,
-2524753,858,109,"Santa Ana",CA,,-2524753,santa.ana,UY-CA-SantaAna,,
-2592498,858,458,"Santa Lucía",CA,,-2592498,santa.lucia,UY-CA-SantaLucia,,
-2529729,858,44,"Santa Lucía Del Este",CA,,-2529729,santa.lucia.este,UY-CA-SantaLuciaEste,,
-2593574,858,463,"Santa Rosa",CA,SRA,1020820,santa.rosa,UY-CA-SantaRosa,,
-2526360,858,465,Sauce,CA,SCE,429855,sauce,UY-CA-Sauce,,
-2584876,858,474,"Seis Hermanos",CA,SHS,723686,seis.hermanos,UY-CA-SeisHermanos,,
-2529896,858,86,Soca,CA,SCA,984836,soca,UY-CA-Soca,,
-3747887,858,483,"Sofía Santos",CA,,-3747887,sofia.santos,UY-CA-SofiaSantos,,
-2592621,858,184,Tala,CA,TLA,2096693,tala,UY-CA-Tala,,
-2548845,858,471,Toledo,CA,TDO,2096039,toledo,UY-CA-Toledo,,
-2530071,858,79,"Totoral del Sauce",CA,TDS,552052,totoral.sauce,UY-CA-TotoralSauce,,
-2530174,858,72,"Viejo Molino San Bernardo",CA,,-2530174,viejo.molino.san.bernardo,UY-CA-ViejoMolinoSanBernardo,,
-2584928,858,464,"Villa Arejo",CA,,-2584928,villa.arejo,UY-CA-VillaArejo,,
-2592573,858,56,"Villa Argentina",CA,,-2592573,villa.argentina,UY-CA-VillaArgentina,,
-2548803,858,472,"Villa Crespo y San Andrés",CA,VYA,1791090,villa.crespo.y.san.andres,UY-CA-VillaCrespoYSanAndres,,
-2575968,858,67,"Villa El Tato",CA,VET,1271428,villa.tato,UY-CA-VillaTato,,
-2580443,858,481,"Villa Felicidad",CA,VFD,2525104,villa.felicidad,UY-CA-VillaFelicidad,,
-2584868,858,467,"Villa Hadita",CA,,-2584868,villa.hadita,UY-CA-VillaHadita,,
-2584688,858,482,"Villa Instituto Adventista",CA,,-2584688,villa.instituto.adventista,UY-CA-VillaInstitutoAdventista,,
-2559865,858,64,"Villa Juana",CA,,-2559865,villa.juana,UY-CA-VillaJuana,,
-2584919,858,476,"Villa Paz S.A.",CA,VPA,1632917,villa.paz.s.a,UY-CA-VillaPazSA,,
-2548846,858,470,"Villa Porvenir",CA,,-2548846,villa.porvenir,UY-CA-VillaPorvenir,,
-2584915,858,479,"Villa San Cono",CA,,-2584915,villa.san.cono,UY-CA-VillaSanCono,,
-2584870,858,466,"Villa San Felipe",CA,,-2584870,villa.san.felipe,UY-CA-VillaSanFelipe,,
-2584877,858,473,"Villa San José",CA,VSJ,2525747,villa.san.jose,UY-CA-VillaSanJose,,
+2524214,858,510,"Aeropuerto Internacional de Carrasco",CA,,-2524214,aeropuerto.internacional.carrasco,UY-CA-AeropuertoInternacionalCarrasco,,"{""area_sr"": 0.0009, ""area_km2"": 9, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3, ""side_estim_deg"": 0.0299, ""elongation_factor"": 1.43}"
+2524429,858,493,"Aguas Corrientes",CA,ACS,397975,aguas.corrientes,UY-CA-AguasCorrientes,,"{""area_sr"": 0.00019, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.0137, ""elongation_factor"": 1.87}"
+2524615,858,45,Araminda,CA,,-2524615,araminda,UY-CA-Araminda,,"{""area_sr"": 0.00017, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.013, ""elongation_factor"": 1.02}"
+2524673,858,108,Argentino,CA,,-2524673,argentino,UY-CA-Argentino,,"{""area_sr"": 0.00037, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.9, ""side_estim_deg"": 0.0191, ""elongation_factor"": 1.26}"
+2527673,858,55,Atlántida,CA,,-2527673,atlantida,UY-CA-Atlantida,,"{""area_sr"": 0.00049, ""area_km2"": 5, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.2, ""side_estim_deg"": 0.022, ""elongation_factor"": 1.95}"
+2564503,858,506,"Barrio Cópola",CA,BCA,4863727,barrio.copola,UY-CA-BarrioCopola,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0044, ""elongation_factor"": 2.15}"
+2564530,858,477,"Barrio La Lucha",CA,BLL,808948,barrio.lucha,UY-CA-BarrioLucha,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0032, ""elongation_factor"": 1.31}"
+2564587,858,489,"Barrio Remanso",CA,,-2564587,barrio.remanso,UY-CA-BarrioRemanso,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0029, ""elongation_factor"": 0.86}"
+2564867,858,69,"Barros Blancos",CA,BBS,6027170,barros.blancos,UY-CA-BarrosBlancos,,"{""area_sr"": 0.00208, ""area_km2"": 21, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 4.6, ""side_estim_deg"": 0.0456, ""elongation_factor"": 2.37}"
+2529519,858,50,"Bello Horizonte",CA,,-2529519,bello.horizonte,UY-CA-BelloHorizonte,,"{""area_sr"": 0.00042, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.1, ""side_estim_deg"": 0.0205, ""elongation_factor"": 1.24}"
+2524823,858,43,Biarritz,CA,,-2524823,biarritz,UY-CA-Biarritz,,"{""area_sr"": 0.00019, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.0138, ""elongation_factor"": 1.78}"
+2574702,858,187,Bolívar,CA,BLV,891703,bolivar,UY-CA-Bolivar,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0072, ""elongation_factor"": 1.81}"
+2574733,858,486,"Campo Militar",CA,,-2574733,campo.militar,UY-CA-CampoMilitar,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0048, ""elongation_factor"": 3.11}"
+2574897,858,491,Canelones,CA,,-2574897,canelones,UY-CA-Canelones,,"{""area_sr"": 0.00122, ""area_km2"": 12, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.5, ""side_estim_deg"": 0.0349, ""elongation_factor"": 1.89}"
+2575790,858,89,"Capilla de Cella",CA,,-2575790,capilla.cella,UY-CA-CapillaCella,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0035, ""elongation_factor"": 1.85}"
+2575914,858,62,Carmel,CA,,-2575914,carmel,UY-CA-Carmel,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0058, ""elongation_factor"": 0.85}"
+2576138,858,183,Castellanos,CA,,181267,castellanos,UY-CA-Castellanos,,"{""area_sr"": 0.00016, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0125, ""elongation_factor"": 1.78}"
+2576691,858,54,"City Golf",CA,,-2576691,city.golf,UY-CA-CityGolf,,"{""area_sr"": 0.00013, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.2, ""side_estim_deg"": 0.0116, ""elongation_factor"": 1.24}"
+2535097,858,61,"Ciudad de la Costa",CA,CCA,869403,ciudad.la.costa,UY-CA-CiudadLaCosta,,"{""area_sr"": 0.00529, ""area_km2"": 54, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 7.3, ""side_estim_deg"": 0.0727, ""elongation_factor"": 2.65}"
+2527817,858,51,"Costa Azul",CA,,-2527817,costa.azul,UY-CA-CostaAzul,,"{""area_sr"": 0.00041, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2, ""side_estim_deg"": 0.0202, ""elongation_factor"": 2.03}"
+2577727,858,505,"Costa y Guillamón",CA,CYG,1136423,costa.y.guillamon,UY-CA-CostaYGuillamon,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0027, ""elongation_factor"": 0.85}"
+2577734,858,80,"Cruz de los caminos",CA,,-2577734,cruz.caminos,UY-CA-CruzCaminos,,"{""area_sr"": 0.00007, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0086, ""elongation_factor"": 2.46}"
+2524812,858,111,"Cuchilla Alta",CA,,-2524812,cuchilla.alta,UY-CA-CuchillaAlta,,"{""area_sr"": 0.00017, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0129, ""elongation_factor"": 1.39}"
+2577800,858,66,"Cumbres de Carrasco",CA,,-2577800,cumbres.carrasco,UY-CA-CumbresCarrasco,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0059, ""elongation_factor"": 1.58}"
+2524813,858,110,"El Galeón",CA,,-2524813,el.galeon,UY-CA-ElGaleon,,"{""area_sr"": 0.00028, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.7, ""side_estim_deg"": 0.0168, ""elongation_factor"": 2.14}"
+2577840,858,75,"Empalme Olmos",CA,EOS,630016,empalme.olmos,UY-CA-EmpalmeOlmos,,"{""area_sr"": 0.00023, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0151, ""elongation_factor"": 2.74}"
+2578095,858,82,"Estacion Tapia",CA,TAP,121961,estacion.tapia,UY-CA-EstacionTapia,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0054, ""elongation_factor"": 2.61}"
+2577991,858,77,"Estación Atlántida",CA,,-2577991,estacion.atlantida,UY-CA-EstacionAtlantida,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0108, ""elongation_factor"": 2.71}"
+2527805,858,88,"Estación La Floresta",CA,,-2527805,estacion.floresta,UY-CA-EstacionFloresta,,"{""area_sr"": 0.00014, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.2, ""side_estim_deg"": 0.012, ""elongation_factor"": 1.16}"
+2578022,858,84,"Estación Migues",CA,,-2578022,estacion.migues,UY-CA-EstacionMigues,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0036, ""elongation_factor"": 0.78}"
+2578056,858,83,"Estación Pedrera",CA,EPA,1368999,estacion.pedrera,UY-CA-EstacionPedrera,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0041, ""elongation_factor"": 1.49}"
+2588130,858,90,"Estación Piedras de Afilar",CA,,-2588130,estacion.piedras.afilar,UY-CA-EstacionPiedrasAfilar,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.003, ""elongation_factor"": 2.12}"
+2530172,858,71,"Estanque de Pando",CA,,1369750,estanque.pando,UY-CA-EstanquePando,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0041, ""elongation_factor"": 1.07}"
+2578297,858,57,"Fortín de Santa Rosa",CA,,-2578297,fortin.santa.rosa,UY-CA-FortinSantaRosa,,"{""area_sr"": 0.00016, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0128, ""elongation_factor"": 1.98}"
+2584353,858,508,"Fraccionamiento Camino del Andaluz y Ruta 84",CA,FY8,635591,fraccionamiento.camino.andaluz.y.ruta.84,UY-CA-FraccionamientoCaminoAndaluzYRuta84,,"{""area_sr"": 0.00031, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.8, ""side_estim_deg"": 0.0176, ""elongation_factor"": 4.37}"
+2580402,858,480,"Fraccionamiento Progreso",CA,,-2580402,fraccionamiento.progreso,UY-CA-FraccionamientoProgreso,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.004, ""elongation_factor"": 1.45}"
+2584700,858,469,"Fraccionamiento Ruta 74",CA,FR7,1440332,fraccionamiento.ruta.74,UY-CA-FraccionamientoRuta74,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1, ""side_estim_deg"": 0.01, ""elongation_factor"": 3.86}"
+7928095,858,509,"General Líber Seregni",CA,,-7928095,general.liber.seregni,UY-CA-GeneralLiberSeregni,,"{""area_sr"": 0.00259, ""area_km2"": 26, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 5.1, ""side_estim_deg"": 0.0509, ""elongation_factor"": 1.84}"
+2529520,858,49,Guazuvirá,CA,,-2529520,guazuvira,UY-CA-Guazuvira,,"{""area_sr"": 0.00075, ""area_km2"": 8, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0273, ""elongation_factor"": 1.3}"
+2530173,858,78,"Jardines de Pando",CA,JDP,1604881,jardines.pando,UY-CA-JardinesPando,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.006}"
+2524704,858,107,Jaureguiberry,CA,,-2524704,jaureguiberry,UY-CA-Jaureguiberry,,"{""area_sr"": 0.00081, ""area_km2"": 8, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.9, ""side_estim_deg"": 0.0285, ""elongation_factor"": 1.92}"
+2584855,858,468,"Joaquín Suárez",CA,JSZ,1005809,joaquin.suarez,UY-CA-JoaquinSuarez,,"{""area_sr"": 0.00027, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.6, ""side_estim_deg"": 0.0164, ""elongation_factor"": 2.68}"
+2586113,858,490,Juanicó,CA,,-2586113,juanico,UY-CA-Juanico,,"{""area_sr"": 0.00005, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0069, ""elongation_factor"": 1.67}"
+2527806,858,87,"La Floresta",CA,LFA,6029683,la.floresta,UY-CA-LaFloresta,,"{""area_sr"": 0.00098, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.2, ""side_estim_deg"": 0.0313, ""elongation_factor"": 2.01}"
+2577865,858,76,"La Montañesa",CA,,-2577865,la.montanesa,UY-CA-LaMontanesa,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0045, ""elongation_factor"": 0.88}"
+2586184,858,507,"La Paz",CA,LPZ,997833,la.paz,UY-CA-LaPaz,,"{""area_sr"": 0.00037, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.9, ""side_estim_deg"": 0.0193, ""elongation_factor"": 2.05}"
+2529708,858,46,"La Tuna",CA,,-2529708,la.tuna,UY-CA-LaTuna,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0074, ""elongation_factor"": 1.33}"
+10410535,858,485,"Las Brujas",CA,LBS,110636202,las.brujas,UY-CA-LasBrujas,,"{""area_sr"": 0.00078, ""area_km2"": 8, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0279, ""elongation_factor"": 1.5}"
+2586358,858,475,"Las Piedras",CA,LPS,615470,las.piedras,UY-CA-LasPiedras,,"{""area_sr"": 0.00172, ""area_km2"": 17, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 4.2, ""side_estim_deg"": 0.0414, ""elongation_factor"": 1.66}"
+2527759,858,52,"Las Toscas",CA,,-2527759,las.toscas,UY-CA-LasToscas,,"{""area_sr"": 0.00031, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.8, ""side_estim_deg"": 0.0176, ""elongation_factor"": 1.24}"
+2575933,858,63,"Lomas de Carrasco",CA,LDC,1868714,lomas.carrasco,UY-CA-LomasCarrasco,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0108, ""elongation_factor"": 1.19}"
+2576537,858,487,"Los Cerrillos",CA,LCS,1007603,los.cerrillos,UY-CA-LosCerrillos,,"{""area_sr"": 0.00016, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0126, ""elongation_factor"": 2.42}"
+2529599,858,47,"Los Titanes",CA,,-2529599,los.titanes,UY-CA-LosTitanes,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0072, ""elongation_factor"": 1.35}"
+2578278,858,60,Marindia,CA,,-2578278,marindia,UY-CA-Marindia,,"{""area_sr"": 0.00029, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.7, ""side_estim_deg"": 0.017, ""elongation_factor"": 1.55}"
+2578624,858,180,Migues,CA,MIG,29585,migues,UY-CA-Migues,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0108, ""elongation_factor"": 2.45}"
+2578792,858,181,Montes,CA,MON,162416,montes,UY-CA-Montes,,"{""area_sr"": 0.00023, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0151, ""elongation_factor"": 2.7}"
+2559864,858,65,Neptunia,CA,NEP,984189,neptunia,UY-CA-Neptunia,,"{""area_sr"": 0.00069, ""area_km2"": 7, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.6, ""side_estim_deg"": 0.0262, ""elongation_factor"": 1.98}"
+2577877,858,73,Olmos,CA,,-2577877,olmos,UY-CA-Olmos,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0046, ""elongation_factor"": 1.74}"
+2586519,858,70,Pando,CA,,-2586519,pando,UY-CA-Pando,,"{""area_sr"": 0.00106, ""area_km2"": 11, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.3, ""side_estim_deg"": 0.0326, ""elongation_factor"": 2.44}"
+2584694,858,488,"Parada Cabrera",CA,,-2584694,parada.cabrera,UY-CA-ParadaCabrera,,"{""area_sr"": 0.00013, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.2, ""side_estim_deg"": 0.0116, ""elongation_factor"": 2.26}"
+2527760,858,53,"Parque del Plata",CA,,-2527760,parque.plata,UY-CA-ParquePlata,,"{""area_sr"": 0.00082, ""area_km2"": 8, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.9, ""side_estim_deg"": 0.0286, ""elongation_factor"": 1.06}"
+2574898,858,460,"Paso Espinosa",CA,,-2574898,paso.espinosa,UY-CA-PasoEspinosa,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0046, ""elongation_factor"": 1.64}"
+2574899,858,492,"Paso Palomeque",CA,,-2574899,paso.palomeque,UY-CA-PasoPalomeque,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0056, ""elongation_factor"": 3.26}"
+2588126,858,454,"Paso de Pache",CA,,-2588126,paso.pache,UY-CA-PasoPache,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0023, ""elongation_factor"": 1.88}"
+3216212,858,461,"Paso de la Cadena",CA,PCN,570722,paso.la.cadena,UY-CA-PasoLaCadena,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0024, ""elongation_factor"": 1.64}"
+2577852,858,74,"Piedra del Toro",CA,,-2577852,piedra.toro,UY-CA-PiedraToro,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.006, ""elongation_factor"": 3.64}"
+2588156,858,85,"Piedras de Afilar",CA,,-2588156,piedras.afilar,UY-CA-PiedrasAfilar,,"{""area_sr"": 0.00005, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0069, ""elongation_factor"": 2.66}"
+2578279,858,58,Pinamar,CA,PIN,984779,pinamar,UY-CA-Pinamar,,"{""area_sr"": 0.00051, ""area_km2"": 5, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.3, ""side_estim_deg"": 0.0226, ""elongation_factor"": 1.36}"
+2589684,858,478,Progreso,CA,,-2589684,progreso,UY-CA-Progreso,,"{""area_sr"": 0.00092, ""area_km2"": 9, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.1, ""side_estim_deg"": 0.0303, ""elongation_factor"": 2.47}"
+2578899,858,68,"Quinta Los Horneros",CA,,-2578899,quinta.horneros,UY-CA-QuintaHorneros,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0042, ""elongation_factor"": 1.45}"
+2578280,858,59,Salinas,CA,,-2578280,salinas,UY-CA-Salinas,,"{""area_sr"": 0.00048, ""area_km2"": 5, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.2, ""side_estim_deg"": 0.022, ""elongation_factor"": 1.02}"
+3216391,858,462,"San Antonio",CA,SAO,1005259,san.antonio,UY-CA-SanAntonio,,"{""area_sr"": 0.00008, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0089, ""elongation_factor"": 2.91}"
+2591409,858,182,"San Bautista",CA,SBA,1005725,san.bautista,UY-CA-SanBautista,,"{""area_sr"": 0.00022, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0148, ""elongation_factor"": 1.98}"
+2541726,858,81,"San Jacinto",CA,SJO,525163,san.jacinto,UY-CA-SanJacinto,,"{""area_sr"": 0.00029, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.7, ""side_estim_deg"": 0.017, ""elongation_factor"": 2.01}"
+2529600,858,48,"San Luis",CA,,-2529600,san.luis,UY-CA-SanLuis,,"{""area_sr"": 0.00046, ""area_km2"": 5, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.2, ""side_estim_deg"": 0.0214, ""elongation_factor"": 1.67}"
+1632970,858,185,"San Ramón",CA,SRN,1784539,san.ramon,UY-CA-SanRamon,,"{""area_sr"": 0.00093, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.1, ""side_estim_deg"": 0.0306, ""elongation_factor"": 1.67}"
+2524753,858,109,"Santa Ana",CA,,-2524753,santa.ana,UY-CA-SantaAna,,"{""area_sr"": 0.00023, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0152, ""elongation_factor"": 1.82}"
+2592498,858,458,"Santa Lucía",CA,,-2592498,santa.lucia,UY-CA-SantaLucia,,"{""area_sr"": 0.0038, ""area_km2"": 39, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 6.2, ""side_estim_deg"": 0.0616, ""elongation_factor"": 1.91}"
+2529729,858,44,"Santa Lucía Del Este",CA,,-2529729,santa.lucia.este,UY-CA-SantaLuciaEste,,"{""area_sr"": 0.00021, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0146, ""elongation_factor"": 1.53}"
+2593574,858,463,"Santa Rosa",CA,SRA,1020820,santa.rosa,UY-CA-SantaRosa,,"{""area_sr"": 0.00033, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.8, ""side_estim_deg"": 0.0183, ""elongation_factor"": 1.68}"
+2526360,858,465,Sauce,CA,SCE,429855,sauce,UY-CA-Sauce,,"{""area_sr"": 0.00035, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.9, ""side_estim_deg"": 0.0187, ""elongation_factor"": 2.24}"
+2584876,858,474,"Seis Hermanos",CA,SHS,723686,seis.hermanos,UY-CA-SeisHermanos,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0044, ""elongation_factor"": 2.12}"
+2529896,858,86,Soca,CA,SCA,984836,soca,UY-CA-Soca,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0111, ""elongation_factor"": 2.43}"
+3747887,858,483,"Sofía Santos",CA,,-3747887,sofia.santos,UY-CA-SofiaSantos,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0025, ""elongation_factor"": 1.34}"
+2592621,858,184,Tala,CA,TLA,2096693,tala,UY-CA-Tala,,"{""area_sr"": 0.00052, ""area_km2"": 5, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.3, ""side_estim_deg"": 0.0228, ""elongation_factor"": 1.44}"
+2548845,858,471,Toledo,CA,TDO,2096039,toledo,UY-CA-Toledo,,"{""area_sr"": 0.00029, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.7, ""side_estim_deg"": 0.0169, ""elongation_factor"": 2.12}"
+2530071,858,79,"Totoral del Sauce",CA,TDS,552052,totoral.sauce,UY-CA-TotoralSauce,,"{""area_sr"": 0.00007, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0086, ""elongation_factor"": 3.21}"
+2530174,858,72,"Viejo Molino San Bernardo",CA,,-2530174,viejo.molino.san.bernardo,UY-CA-ViejoMolinoSanBernardo,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0046, ""elongation_factor"": 1.93}"
+2584928,858,464,"Villa Arejo",CA,,-2584928,villa.arejo,UY-CA-VillaArejo,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0054, ""elongation_factor"": 1.26}"
+2592573,858,56,"Villa Argentina",CA,,-2592573,villa.argentina,UY-CA-VillaArgentina,,"{""area_sr"": 0.00008, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0087, ""elongation_factor"": 1.24}"
+2548803,858,472,"Villa Crespo y San Andrés",CA,VYA,1791090,villa.crespo.y.san.andres,UY-CA-VillaCrespoYSanAndres,,"{""area_sr"": 0.00041, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2, ""side_estim_deg"": 0.0202, ""elongation_factor"": 2.55}"
+2575968,858,67,"Villa El Tato",CA,VET,1271428,villa.tato,UY-CA-VillaTato,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0052, ""elongation_factor"": 1.75}"
+2580443,858,481,"Villa Felicidad",CA,VFD,2525104,villa.felicidad,UY-CA-VillaFelicidad,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0053, ""elongation_factor"": 1.99}"
+2584868,858,467,"Villa Hadita",CA,,-2584868,villa.hadita,UY-CA-VillaHadita,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0057, ""elongation_factor"": 2.01}"
+2584688,858,482,"Villa Instituto Adventista",CA,,-2584688,villa.instituto.adventista,UY-CA-VillaInstitutoAdventista,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0049, ""elongation_factor"": 2.25}"
+2559865,858,64,"Villa Juana",CA,,-2559865,villa.juana,UY-CA-VillaJuana,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0059, ""elongation_factor"": 1.61}"
+2584919,858,476,"Villa Paz S.A.",CA,VPA,1632917,villa.paz.s.a,UY-CA-VillaPazSA,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0033, ""elongation_factor"": 1.37}"
+2548846,858,470,"Villa Porvenir",CA,,-2548846,villa.porvenir,UY-CA-VillaPorvenir,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0066, ""elongation_factor"": 1.4}"
+2584915,858,479,"Villa San Cono",CA,,-2584915,villa.san.cono,UY-CA-VillaSanCono,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0023, ""elongation_factor"": 1.4}"
+2584870,858,466,"Villa San Felipe",CA,,-2584870,villa.san.felipe,UY-CA-VillaSanFelipe,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0038, ""elongation_factor"": 1.73}"
+2584877,858,473,"Villa San José",CA,VSJ,2525747,villa.san.jose,UY-CA-VillaSanJose,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0072, ""elongation_factor"": 1.54}"

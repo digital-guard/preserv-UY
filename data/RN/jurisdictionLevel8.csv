@@ -1,18 +1,18 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3299464,858,310,Algorta,RN,ATA,1007589,algorta,UY-RN-Algorta,,
-2708240,858,370,"Barrio Anglo",RN,BAO,808944,barrio.anglo,UY-RN-BarrioAnglo,,
-2721056,858,321,Bellaco,RN,,-2721056,bellaco,UY-RN-Bellaco,,
-2734922,858,368,"Fray Bentos",RN,,-2734922,fray.bentos,UY-RN-FrayBentos,,
-2740452,858,322,Grecco,RN,,-2740452,grecco,UY-RN-Grecco,,
-2740503,858,369,"Las Cañas",RN,,-2740503,las.canas,UY-RN-LasCanas,,
-2741822,858,367,"Los Arrayanes",RN,,-2741822,los.arrayanes,UY-RN-LosArrayanes,,
-2742601,858,318,Menafra,RN,,-2742601,menafra,UY-RN-Menafra,,
-3299437,858,296,Merinos,RN,,-3299437,merinos,UY-RN-Merinos,,
-2743657,858,388,"Nuevo Berlín",RN,NBN,11313227,nuevo.berlin,UY-RN-NuevoBerlin,,
-2743767,858,315,"Paso de los Mellizos",RN,,-2743767,paso.mellizos,UY-RN-PasoMellizos,,
-2745344,858,389,"San Javier",RN,SJR,518618,san.javier,UY-RN-SanJavier,,
-3299399,858,325,"Sarandí de Navarro",RN,,-3299399,sarandi.navarro,UY-RN-SarandiNavarro,,
-2745380,858,319,"Tres Quintas",RN,,-2745380,tres.quintas,UY-RN-TresQuintas,,
-2745479,858,317,"Villa General Borges",RN,,-2745479,villa.general.borges,UY-RN-VillaGeneralBorges,,
-2745478,858,316,"Villa María",RN,,-2745478,villa.maria,UY-RN-VillaMaria,,
-2705120,858,320,Young,RN,YOU,1005607,young,UY-RN-Young,,
+3299464,858,310,Algorta,RN,ATA,1007589,algorta,UY-RN-Algorta,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0079, ""elongation_factor"": 1.39}"
+2708240,858,370,"Barrio Anglo",RN,BAO,808944,barrio.anglo,UY-RN-BarrioAnglo,,"{""area_sr"": 0.00007, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0085, ""elongation_factor"": 2.52}"
+2721056,858,321,Bellaco,RN,,-2721056,bellaco,UY-RN-Bellaco,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.003, ""elongation_factor"": 1.36}"
+2734922,858,368,"Fray Bentos",RN,,-2734922,fray.bentos,UY-RN-FrayBentos,,"{""area_sr"": 0.00087, ""area_km2"": 9, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3, ""side_estim_deg"": 0.0296, ""elongation_factor"": 1.78}"
+2740452,858,322,Grecco,RN,,-2740452,grecco,UY-RN-Grecco,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.011, ""elongation_factor"": 1.84}"
+2740503,858,369,"Las Cañas",RN,,-2740503,las.canas,UY-RN-LasCanas,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.0098, ""elongation_factor"": 2.61}"
+2741822,858,367,"Los Arrayanes",RN,,-2741822,los.arrayanes,UY-RN-LosArrayanes,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0072, ""elongation_factor"": 1.4}"
+2742601,858,318,Menafra,RN,,-2742601,menafra,UY-RN-Menafra,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0051, ""elongation_factor"": 2.92}"
+3299437,858,296,Merinos,RN,,-3299437,merinos,UY-RN-Merinos,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0038, ""elongation_factor"": 2.86}"
+2743657,858,388,"Nuevo Berlín",RN,NBN,11313227,nuevo.berlin,UY-RN-NuevoBerlin,,"{""area_sr"": 0.00053, ""area_km2"": 6, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.3, ""side_estim_deg"": 0.0231, ""elongation_factor"": 1.65}"
+2743767,858,315,"Paso de los Mellizos",RN,,-2743767,paso.mellizos,UY-RN-PasoMellizos,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0057, ""elongation_factor"": 1.52}"
+2745344,858,389,"San Javier",RN,SJR,518618,san.javier,UY-RN-SanJavier,,"{""area_sr"": 0.00015, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.2, ""side_estim_deg"": 0.0122, ""elongation_factor"": 1.76}"
+3299399,858,325,"Sarandí de Navarro",RN,,-3299399,sarandi.navarro,UY-RN-SarandiNavarro,,"{""area_sr"": 0.00009, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0093, ""elongation_factor"": 1.95}"
+2745380,858,319,"Tres Quintas",RN,,-2745380,tres.quintas,UY-RN-TresQuintas,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0035, ""elongation_factor"": 1.69}"
+2745479,858,317,"Villa General Borges",RN,,-2745479,villa.general.borges,UY-RN-VillaGeneralBorges,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0064, ""elongation_factor"": 1.78}"
+2745478,858,316,"Villa María",RN,,-2745478,villa.maria,UY-RN-VillaMaria,,"{""area_sr"": 0.00005, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0068, ""elongation_factor"": 1.69}"
+2705120,858,320,Young,RN,YOU,1005607,young,UY-RN-Young,,"{""area_sr"": 0.00078, ""area_km2"": 8, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0279, ""elongation_factor"": 2.02}"

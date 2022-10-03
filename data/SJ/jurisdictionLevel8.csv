@@ -1,27 +1,27 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2617653,858,459,"18 de Julio",SJ,,-2617653,18.julio,UY-SJ-18Julio,,
-2618164,858,434,"Boca del Cufré",SJ,,-2618164,boca.cufre,UY-SJ-BocaCufre,,
-2617676,858,455,Capurro,SJ,CAP,85750602,capurro,UY-SJ-Capurro,,
-3216674,858,445,"Carreta Quemada",SJ,,-3216674,carreta.quemada,UY-SJ-CarretaQuemada,,
-2618354,858,439,"Cañada Grande",SJ,,-2618354,canada.grande,UY-SJ-CanadaGrande,,
-2620616,858,484,"Cerámicas del Sur",SJ,,-2620616,ceramicas.sur,UY-SJ-CeramicasSur,,
-2690564,858,503,"Ciudad del Plata",SJ,,16302558,ciudad.plata,UY-SJ-CiudadPlata,,
-2620639,858,498,"Cololó Tinosa",SJ,,-2620639,cololo.tinosa,UY-SJ-CololoTinosa,,
-2621228,858,417,"Ecilda Paullier",SJ,EPR,1281233,ecilda.paullier,UY-SJ-EcildaPaullier,,
-3216745,858,442,González,SJ,,-3216745,gonzalez,UY-SJ-Gonzalez,,
-2622406,858,456,Ituzaingó,SJ,IZG,615727,ituzaingo,UY-SJ-Ituzaingo,,
-2622711,858,441,"Juan Soler",SJ,,-2622711,juan.soler,UY-SJ-JuanSoler,,
-2644789,858,501,"Kiyú - Ordeig",SJ,,-2644789,kiyu..ordeig,UY-SJ-KiyuOrdeig,,
-2645354,858,438,"La Boyada",SJ,LBA,1670190,la.boyada,UY-SJ-LaBoyada,,
-2620713,858,502,Libertad,SJ,LIB,946150,libertad,UY-SJ-Libertad,,
-2645535,858,500,Mangrullo,SJ,,-2645535,mangrullo,UY-SJ-Mangrullo,,
-2620923,858,495,"Puntas de Valdez",SJ,PDV,423201,puntas.valdez,UY-SJ-PuntasValdez,,
-2646731,858,494,"Radial Ruta 3",SJ,,-2646731,radial.ruta.3,UY-SJ-RadialRuta3,,
-2646628,858,497,"Rafael Perazza",SJ,RPA,1891613,rafael.perazza,UY-SJ-RafaelPerazza,,
-2647011,858,444,Raigón,SJ,RAI,1010391,raigon,UY-SJ-Raigon,,
-2647129,858,499,"Rincón del Pino",SJ,,-2647129,rincon.pino,UY-SJ-RinconPino,,
-2647330,858,440,Rodríguez,SJ,RDZ,32453,rodriguez,UY-SJ-Rodriguez,,
-2692141,858,345,"San Gregorio",SJ,,-2692141,san.gregorio,UY-SJ-SanGregorio,,
-2679983,858,443,"San José",SJ,SJM,983435,san.jose,UY-SJ-SanJose,,
-2694030,858,416,Scavino,SJ,,-2694030,scavino,UY-SJ-Scavino,,
-2688470,858,496,"Villa María",SJ,VMA,1805150,villa.maria,UY-SJ-VillaMaria,,
+2617653,858,459,"18 de Julio",SJ,,-2617653,18.julio,UY-SJ-18Julio,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0062, ""elongation_factor"": 3}"
+2618164,858,434,"Boca del Cufré",SJ,,-2618164,boca.cufre,UY-SJ-BocaCufre,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0076, ""elongation_factor"": 1.74}"
+2617676,858,455,Capurro,SJ,CAP,85750602,capurro,UY-SJ-Capurro,,"{""area_sr"": 0.00011, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1, ""side_estim_deg"": 0.0103, ""elongation_factor"": 2.44}"
+3216674,858,445,"Carreta Quemada",SJ,,-3216674,carreta.quemada,UY-SJ-CarretaQuemada,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0029, ""elongation_factor"": 2.32}"
+2618354,858,439,"Cañada Grande",SJ,,-2618354,canada.grande,UY-SJ-CanadaGrande,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0029, ""elongation_factor"": 1.84}"
+2620616,858,484,"Cerámicas del Sur",SJ,,-2620616,ceramicas.sur,UY-SJ-CeramicasSur,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0039, ""elongation_factor"": 1.08}"
+2690564,858,503,"Ciudad del Plata",SJ,,16302558,ciudad.plata,UY-SJ-CiudadPlata,,"{""area_sr"": 0.00249, ""area_km2"": 25, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 5, ""side_estim_deg"": 0.0499, ""elongation_factor"": 3.02}"
+2620639,858,498,"Cololó Tinosa",SJ,,-2620639,cololo.tinosa,UY-SJ-CololoTinosa,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0036, ""elongation_factor"": 1.92}"
+2621228,858,417,"Ecilda Paullier",SJ,EPR,1281233,ecilda.paullier,UY-SJ-EcildaPaullier,,"{""area_sr"": 0.00021, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0144, ""elongation_factor"": 2.83}"
+3216745,858,442,González,SJ,,-3216745,gonzalez,UY-SJ-Gonzalez,,"{""area_sr"": 0.00007, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0085, ""elongation_factor"": 2.05}"
+2622406,858,456,Ituzaingó,SJ,IZG,615727,ituzaingo,UY-SJ-Ituzaingo,,"{""area_sr"": 0.00007, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0087, ""elongation_factor"": 1.41}"
+2622711,858,441,"Juan Soler",SJ,,-2622711,juan.soler,UY-SJ-JuanSoler,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0066, ""elongation_factor"": 2.52}"
+2644789,858,501,"Kiyú - Ordeig",SJ,,-2644789,kiyu..ordeig,UY-SJ-KiyuOrdeig,,"{""area_sr"": 0.00027, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.6, ""side_estim_deg"": 0.0163, ""elongation_factor"": 5.13}"
+2645354,858,438,"La Boyada",SJ,LBA,1670190,la.boyada,UY-SJ-LaBoyada,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.003, ""elongation_factor"": 1.81}"
+2620713,858,502,Libertad,SJ,LIB,946150,libertad,UY-SJ-Libertad,,"{""area_sr"": 0.00058, ""area_km2"": 6, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.4, ""side_estim_deg"": 0.024, ""elongation_factor"": 2.82}"
+2645535,858,500,Mangrullo,SJ,,-2645535,mangrullo,UY-SJ-Mangrullo,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0026, ""elongation_factor"": 1.67}"
+2620923,858,495,"Puntas de Valdez",SJ,PDV,423201,puntas.valdez,UY-SJ-PuntasValdez,,"{""area_sr"": 0.00011, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0105, ""elongation_factor"": 1.96}"
+2646731,858,494,"Radial Ruta 3",SJ,,-2646731,radial.ruta.3,UY-SJ-RadialRuta3,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0067, ""elongation_factor"": 2.66}"
+2646628,858,497,"Rafael Perazza",SJ,RPA,1891613,rafael.perazza,UY-SJ-RafaelPerazza,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0078, ""elongation_factor"": 2.28}"
+2647011,858,444,Raigón,SJ,RAI,1010391,raigon,UY-SJ-Raigon,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0078, ""elongation_factor"": 2.46}"
+2647129,858,499,"Rincón del Pino",SJ,,-2647129,rincon.pino,UY-SJ-RinconPino,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0038, ""elongation_factor"": 1.5}"
+2647330,858,440,Rodríguez,SJ,RDZ,32453,rodriguez,UY-SJ-Rodriguez,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.011, ""elongation_factor"": 2.28}"
+2692141,858,345,"San Gregorio",SJ,,-2692141,san.gregorio,UY-SJ-SanGregorio,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0018, ""elongation_factor"": 1.28}"
+2679983,858,443,"San José",SJ,SJM,983435,san.jose,UY-SJ-SanJose,,"{""area_sr"": 0.00137, ""area_km2"": 14, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.7, ""side_estim_deg"": 0.037, ""elongation_factor"": 1.7}"
+2694030,858,416,Scavino,SJ,,-2694030,scavino,UY-SJ-Scavino,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0026, ""elongation_factor"": 1.87}"
+2688470,858,496,"Villa María",SJ,VMA,1805150,villa.maria,UY-SJ-VillaMaria,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.006, ""elongation_factor"": 2.43}"

@@ -1,20 +1,20 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2560681,858,217,"19 de Junio",LA,,-2560681,19.junio,UY-LA-19Junio,,
-2546275,858,177,"Barrio La Coronilla - ANCAP",LA,,-2546275,barrio.coronilla..ancap,UY-LA-BarrioCoronillaAncap,,
-2546669,858,174,"Blanes Viale",LA,,-2546669,blanes.viale,UY-LA-BlanesViale,,
-2556600,858,221,Colón,LA,,-2556600,colon,UY-LA-Colon,,
-2556729,858,178,"Estación Solís",LA,,-2556729,estacion.solis,UY-LA-EstacionSolis,,
-2599724,858,173,Gaetán,LA,,-2599724,gaetan,UY-LA-Gaetan,,
-2556967,858,195,Illescas,LA,ILL,-2556967,illescas,UY-LA-Illescas,,
-2557212,858,207,"José Batlle y Ordóñez",LA,,1668942,jose.batlle.y.ordonez,UY-LA-JoseBatlleYOrdonez,,
-2558886,858,209,"José Pedro Varela",LA,JPV,1709570,jose.pedro.varela,UY-LA-JosePedroVarela,,
-2559051,858,172,Mariscala,LA,MLA,1005301,mariscala,UY-LA-Mariscala,,
-2559279,858,176,Minas,LA,MIN,868205,minas,UY-LA-Minas,,
-2560271,858,219,Pirarajá,LA,PJA,1020973,piraraja,UY-LA-Piraraja,,
-2560356,858,220,"Poblado Pedro Aramendía",LA,,-2560356,poblado.pedro.aramendia,UY-LA-PobladoPedroAramendia,,
-2560520,858,193,Polanco,LA,,-2560520,polanco,UY-LA-Polanco,,
-2599739,858,175,"San Francisco de las Sierras",LA,,-2599739,san.francisco.sierras,UY-LA-SanFranciscoSierras,,
-2545592,858,93,"Solís de Mataojo",LA,SDM,19389628,solis.mataojo,UY-LA-SolisMataojo,,
-2562628,858,165,"Villa Serrana",LA,VSA,984726,villa.serrana,UY-LA-VillaSerrana,,
-2561009,858,179,"Villa del Rosario",LA,,-2561009,villa.rosario,UY-LA-VillaRosario,,
-2562661,858,218,Zapicán,LA,ZAP,147368,zapican,UY-LA-Zapican,,
+2560681,858,217,"19 de Junio",LA,,-2560681,19.junio,UY-LA-19Junio,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0038, ""elongation_factor"": 1.46}"
+2546275,858,177,"Barrio La Coronilla - ANCAP",LA,,-2546275,barrio.coronilla..ancap,UY-LA-BarrioCoronillaAncap,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0071, ""elongation_factor"": 2.08}"
+2546669,858,174,"Blanes Viale",LA,,-2546669,blanes.viale,UY-LA-BlanesViale,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0031, ""elongation_factor"": 1.38}"
+2556600,858,221,Colón,LA,,-2556600,colon,UY-LA-Colon,,"{""area_sr"": 0.00018, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.0135, ""elongation_factor"": 1.58}"
+2556729,858,178,"Estación Solís",LA,,-2556729,estacion.solis,UY-LA-EstacionSolis,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0052, ""elongation_factor"": 1.92}"
+2599724,858,173,Gaetán,LA,,-2599724,gaetan,UY-LA-Gaetan,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0018, ""elongation_factor"": 0.99}"
+2556967,858,195,Illescas,LA,ILL,-2556967,illescas,UY-LA-Illescas,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0058, ""elongation_factor"": 1.72}"
+2557212,858,207,"José Batlle y Ordóñez",LA,,1668942,jose.batlle.y.ordonez,UY-LA-JoseBatlleYOrdonez,,"{""area_sr"": 0.00021, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0146, ""elongation_factor"": 1.8}"
+2558886,858,209,"José Pedro Varela",LA,JPV,1709570,jose.pedro.varela,UY-LA-JosePedroVarela,,"{""area_sr"": 0.00044, ""area_km2"": 5, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.1, ""side_estim_deg"": 0.021, ""elongation_factor"": 2.05}"
+2559051,858,172,Mariscala,LA,MLA,1005301,mariscala,UY-LA-Mariscala,,"{""area_sr"": 0.00027, ""area_km2"": 3, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.7, ""side_estim_deg"": 0.0163, ""elongation_factor"": 1.34}"
+2559279,858,176,Minas,LA,MIN,868205,minas,UY-LA-Minas,,"{""area_sr"": 0.00177, ""area_km2"": 18, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 4.2, ""side_estim_deg"": 0.042, ""elongation_factor"": 2.99}"
+2560271,858,219,Pirarajá,LA,PJA,1020973,piraraja,UY-LA-Piraraja,,"{""area_sr"": 0.0002, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.014, ""elongation_factor"": 2.67}"
+2560356,858,220,"Poblado Pedro Aramendía",LA,,-2560356,poblado.pedro.aramendia,UY-LA-PobladoPedroAramendia,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0048, ""elongation_factor"": 2.42}"
+2560520,858,193,Polanco,LA,,-2560520,polanco,UY-LA-Polanco,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0026, ""elongation_factor"": 1.59}"
+2599739,858,175,"San Francisco de las Sierras",LA,,-2599739,san.francisco.sierras,UY-LA-SanFranciscoSierras,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0074, ""elongation_factor"": 2.38}"
+2545592,858,93,"Solís de Mataojo",LA,SDM,19389628,solis.mataojo,UY-LA-SolisMataojo,,"{""area_sr"": 0.00041, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.1, ""side_estim_deg"": 0.0204, ""elongation_factor"": 2.14}"
+2562628,858,165,"Villa Serrana",LA,VSA,984726,villa.serrana,UY-LA-VillaSerrana,,"{""area_sr"": 0.00042, ""area_km2"": 4, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.1, ""side_estim_deg"": 0.0205, ""elongation_factor"": 1.96}"
+2561009,858,179,"Villa del Rosario",LA,,-2561009,villa.rosario,UY-LA-VillaRosario,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.002, ""elongation_factor"": 1.41}"
+2562661,858,218,Zapicán,LA,ZAP,147368,zapican,UY-LA-Zapican,,"{""area_sr"": 0.00022, ""area_km2"": 2, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0147, ""elongation_factor"": 1.87}"

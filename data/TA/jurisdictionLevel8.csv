@@ -1,30 +1,30 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3541328,858,290,Achar,TA,,-3541328,achar,UY-TA-Achar,,
-3556771,858,23,Ansina,TA,,-3556771,ansina,UY-TA-Ansina,,
-3557804,858,17,"Balneario Iporá",TA,,-3557804,balneario.ipora,UY-TA-BalnearioIpora,,
-3558518,858,327,Cardoso,TA,,-3558518,cardoso,UY-TA-Cardoso,,
-3566600,858,326,Chamberlain,TA,,-3566600,chamberlain,UY-TA-Chamberlain,,
-3566911,858,285,Clara,TA,,-3566911,clara,UY-TA-Clara,,
-3568823,858,253,"Cruz de los Caminos",TA,CCI,5190320,cruz.caminos,UY-TA-CruzCaminos,,
-3567146,858,291,"Cuchilla de Peralta",TA,,-3567146,cuchilla.peralta,UY-TA-CuchillaPeralta,,
-3567410,858,19,"Cuchilla del Ombú",TA,,-3567410,cuchilla.ombu,UY-TA-CuchillaOmbu,,
-3568808,858,289,Curtina,TA,,-3568808,curtina,UY-TA-Curtina,,
-3568990,858,283,"La Hilera",TA,,-3568990,la.hilera,UY-TA-LaHilera,,
-3569170,858,527,"La Pedrera",TA,,-3569170,la.pedrera,UY-TA-LaPedrera,,
-3568877,858,281,"Las Toscas",TA,,-3568877,las.toscas,UY-TA-LasToscas,,
-3571565,858,11,Laureles,TA,,-3571565,laureles,UY-TA-Laureles,,
-3606549,858,284,"Montevideo Chico",TA,,-3606549,montevideo.chico,UY-TA-MontevideoChico,,
-3571600,858,20,"Paso Bonilla",TA,,-3571600,paso.bonilla,UY-TA-PasoBonilla,,
-3572216,858,324,"Paso de los Toros",TA,,-3572216,paso.toros,UY-TA-PasoToros,,
-3575631,858,12,"Paso del Cerro",TA,,-3575631,paso.cerro,UY-TA-PasoCerro,,
-3327059,858,287,"Piedra Sola",TA,,-3327059,piedra.sola,UY-TA-PiedraSola,,
-3606756,858,24,"Pueblo de Arriba",TA,,-3606756,pueblo.arriba,UY-TA-PuebloArriba,,
-3600466,858,22,"Pueblo del Barro",TA,,-3600466,pueblo.barro,UY-TA-PuebloBarro,,
-3606474,858,282,"Puntas de Carretera",TA,,-3606474,puntas.carretera,UY-TA-PuntasCarretera,,
-3600505,858,26,"Puntas de Cinco Sauces",TA,,-3600505,puntas.cinco.sauces,UY-TA-PuntasCincoSauces,,
-3601153,858,280,"Rincón de Pereira",TA,,-3601153,rincon.pereira,UY-TA-RinconPereira,,
-3603640,858,328,"Rincón del Bonete",TA,,-3603640,rincon.bonete,UY-TA-RinconBonete,,
-3605805,858,279,"San Gregorio de Polanco",TA,,-3605805,san.gregorio.polanco,UY-TA-SanGregorioPolanco,,
-3571953,858,21,"Sauce de Batoví",TA,,-3571953,sauce.batovi,UY-TA-SauceBatovi,,
-3569171,858,18,Tacuarembó,TA,,-3569171,tacuarembo,UY-TA-Tacuarembo,,
-3327294,858,526,Tambores,TA,,-3327294,tambores,UY-TA-Tambores,,
+3541328,858,290,Achar,TA,,-3541328,achar,UY-TA-Achar,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0078, ""elongation_factor"": 2.12}"
+3556771,858,23,Ansina,TA,,-3556771,ansina,UY-TA-Ansina,,"{""area_sr"": 0.00016, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0127, ""elongation_factor"": 1.41}"
+3557804,858,17,"Balneario Iporá",TA,,-3557804,balneario.ipora,UY-TA-BalnearioIpora,,"{""area_sr"": 0.00008, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0089, ""elongation_factor"": 1.84}"
+3558518,858,327,Cardoso,TA,,-3558518,cardoso,UY-TA-Cardoso,,"{""area_sr"": 0.0002, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.0141, ""elongation_factor"": 1.37}"
+3566600,858,326,Chamberlain,TA,,-3566600,chamberlain,UY-TA-Chamberlain,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0037, ""elongation_factor"": 3.23}"
+3566911,858,285,Clara,TA,,-3566911,clara,UY-TA-Clara,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.007, ""elongation_factor"": 2.95}"
+3568823,858,253,"Cruz de los Caminos",TA,CCI,5190320,cruz.caminos,UY-TA-CruzCaminos,,"{""area_sr"": 0.00022, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.5, ""side_estim_deg"": 0.0148, ""elongation_factor"": 2.11}"
+3567146,858,291,"Cuchilla de Peralta",TA,,-3567146,cuchilla.peralta,UY-TA-CuchillaPeralta,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0059, ""elongation_factor"": 2.01}"
+3567410,858,19,"Cuchilla del Ombú",TA,,-3567410,cuchilla.ombu,UY-TA-CuchillaOmbu,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0021, ""elongation_factor"": 1.83}"
+3568808,858,289,Curtina,TA,,-3568808,curtina,UY-TA-Curtina,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.01, ""elongation_factor"": 1.97}"
+3568990,858,283,"La Hilera",TA,,-3568990,la.hilera,UY-TA-LaHilera,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0047, ""elongation_factor"": 2.12}"
+3569170,858,527,"La Pedrera",TA,,-3569170,la.pedrera,UY-TA-LaPedrera,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0024, ""elongation_factor"": 1.68}"
+3568877,858,281,"Las Toscas",TA,,-3568877,las.toscas,UY-TA-LasToscas,,"{""area_sr"": 0.00011, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0103, ""elongation_factor"": 2.71}"
+3571565,858,11,Laureles,TA,,-3571565,laureles,UY-TA-Laureles,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0079, ""elongation_factor"": 1.77}"
+3606549,858,284,"Montevideo Chico",TA,,-3606549,montevideo.chico,UY-TA-MontevideoChico,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.002, ""elongation_factor"": 1.85}"
+3571600,858,20,"Paso Bonilla",TA,,-3571600,paso.bonilla,UY-TA-PasoBonilla,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0049, ""elongation_factor"": 1.85}"
+3572216,858,324,"Paso de los Toros",TA,,-3572216,paso.toros,UY-TA-PasoToros,,"{""area_sr"": 0.00093, ""area_km2"": 10, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.1, ""side_estim_deg"": 0.0305, ""elongation_factor"": 1.34}"
+3575631,858,12,"Paso del Cerro",TA,,-3575631,paso.cerro,UY-TA-PasoCerro,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.007, ""elongation_factor"": 1.59}"
+3327059,858,287,"Piedra Sola",TA,,-3327059,piedra.sola,UY-TA-PiedraSola,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0032, ""elongation_factor"": 2.88}"
+3606756,858,24,"Pueblo de Arriba",TA,,-3606756,pueblo.arriba,UY-TA-PuebloArriba,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.007, ""elongation_factor"": 3.37}"
+3600466,858,22,"Pueblo del Barro",TA,,-3600466,pueblo.barro,UY-TA-PuebloBarro,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0031, ""elongation_factor"": 2.73}"
+3606474,858,282,"Puntas de Carretera",TA,,-3606474,puntas.carretera,UY-TA-PuntasCarretera,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0028, ""elongation_factor"": 1.22}"
+3600505,858,26,"Puntas de Cinco Sauces",TA,,-3600505,puntas.cinco.sauces,UY-TA-PuntasCincoSauces,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0023, ""elongation_factor"": 2.27}"
+3601153,858,280,"Rincón de Pereira",TA,,-3601153,rincon.pereira,UY-TA-RinconPereira,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0017, ""elongation_factor"": 1.32}"
+3603640,858,328,"Rincón del Bonete",TA,,-3603640,rincon.bonete,UY-TA-RinconBonete,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0073, ""elongation_factor"": 2.12}"
+3605805,858,279,"San Gregorio de Polanco",TA,,-3605805,san.gregorio.polanco,UY-TA-SanGregorioPolanco,,"{""area_sr"": 0.00076, ""area_km2"": 8, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0275, ""elongation_factor"": 2.97}"
+3571953,858,21,"Sauce de Batoví",TA,,-3571953,sauce.batovi,UY-TA-SauceBatovi,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.003, ""elongation_factor"": 1.42}"
+3569171,858,18,Tacuarembó,TA,,-3569171,tacuarembo,UY-TA-Tacuarembo,,"{""area_sr"": 0.00296, ""area_km2"": 31, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 5.6, ""side_estim_deg"": 0.0544, ""elongation_factor"": 3.28}"
+3327294,858,526,Tambores,TA,,-3327294,tambores,UY-TA-Tambores,,"{""area_sr"": 0.00005, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0069, ""elongation_factor"": 3.58}"

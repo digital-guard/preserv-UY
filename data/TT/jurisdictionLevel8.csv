@@ -1,23 +1,23 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3277598,858,234,"Arrocera Bonomo",TT,,-3277598,arrocera.bonomo,UY-TT-ArroceraBonomo,,
-3278475,858,240,"Arrocera El Tigre",TT,,-3278475,arrocera.tigre,UY-TT-ArroceraTigre,,
-3283875,858,241,"Arrocera Los Ceibos",TT,,-3283875,arrocera.ceibos,UY-TT-ArroceraCeibos,,
-3277599,858,235,"Arrocera Los Teros",TT,,-3277599,arrocera.teros,UY-TT-ArroceraTeros,,
-3277771,858,239,"Arrocera Mini",TT,,-3277771,arrocera.mini,UY-TT-ArroceraMini,,
-3277499,858,232,"Arrocera Procipa",TT,,-3277499,arrocera.procipa,UY-TT-ArroceraProcipa,,
-3277674,858,242,"Arrocera Zapata",TT,,-3277674,arrocera.zapata,UY-TT-ArroceraZapata,,
-3255480,858,237,"Arrozal Treinta y Tres",TT,,-3255480,arrozal.treinta.y.tres,UY-TT-ArrozalTreintaYTres,,
-3255828,858,203,"Cerro Chato",TT,,-3255828,cerro.chato,UY-TT-CerroChato,,
-3257767,858,210,"El Bellaco",TT,,-3257767,el.bellaco,UY-TT-ElBellaco,,
-3259382,858,264,"Isla Patrulla",TT,,-3259382,isla.patrulla,UY-TT-IslaPatrulla,,
-3258866,858,236,"La Charqueada",TT,,-3258866,la.charqueada,UY-TT-LaCharqueada,,
-3259413,858,211,"María Albina",TT,,-3259413,maria.albina,UY-TT-MariaAlbina,,
-3259509,858,214,Mendizábal,TT,,-3259509,mendizabal,UY-TT-Mendizabal,,
-3257636,858,213,"Poblado Alonzo",TT,,-3257636,poblado.alonzo,UY-TT-PobladoAlonzo,,
-3257974,858,244,Rincón,TT,RIN,91785399,rincon,UY-TT-Rincon,,
-3271283,858,266,"Santa Clara de Olimar",TT,,-3271283,santa.clara.olimar,UY-TT-SantaClaraOlimar,,
-3256072,858,212,"Treinta y Tres",TT,,-3256072,treinta.y.tres,UY-TT-TreintaYTres,,
-3239877,858,205,Valentines,TT,,-3239877,valentines,UY-TT-Valentines,,
-3277248,858,238,Vergara,TT,VRA,2298580,vergara,UY-TT-Vergara,,
-3277342,858,233,"Villa Passano",TT,,-3277342,villa.passano,UY-TT-VillaPassano,,
-3256210,858,215,"Villa Sara",TT,VSR,91785407,villa.sara,UY-TT-VillaSara,,
+3277598,858,234,"Arrocera Bonomo",TT,,-3277598,arrocera.bonomo,UY-TT-ArroceraBonomo,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0023, ""elongation_factor"": 0.95}"
+3278475,858,240,"Arrocera El Tigre",TT,,-3278475,arrocera.tigre,UY-TT-ArroceraTigre,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0025, ""elongation_factor"": 1.78}"
+3283875,858,241,"Arrocera Los Ceibos",TT,,-3283875,arrocera.ceibos,UY-TT-ArroceraCeibos,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0044, ""elongation_factor"": 1.89}"
+3277599,858,235,"Arrocera Los Teros",TT,,-3277599,arrocera.teros,UY-TT-ArroceraTeros,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0027, ""elongation_factor"": 1.35}"
+3277771,858,239,"Arrocera Mini",TT,,-3277771,arrocera.mini,UY-TT-ArroceraMini,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0023, ""elongation_factor"": 1.25}"
+3277499,858,232,"Arrocera Procipa",TT,,-3277499,arrocera.procipa,UY-TT-ArroceraProcipa,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0039, ""elongation_factor"": 1.7}"
+3277674,858,242,"Arrocera Zapata",TT,,-3277674,arrocera.zapata,UY-TT-ArroceraZapata,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0042, ""elongation_factor"": 2.71}"
+3255480,858,237,"Arrozal Treinta y Tres",TT,,-3255480,arrozal.treinta.y.tres,UY-TT-ArrozalTreintaYTres,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0064, ""elongation_factor"": 1.83}"
+3255828,858,203,"Cerro Chato",TT,,-3255828,cerro.chato,UY-TT-CerroChato,,"{""area_sr"": 0.00009, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.0095, ""elongation_factor"": 2.53}"
+3257767,858,210,"El Bellaco",TT,,-3257767,el.bellaco,UY-TT-ElBellaco,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0026, ""elongation_factor"": 2.42}"
+3259382,858,264,"Isla Patrulla",TT,,-3259382,isla.patrulla,UY-TT-IslaPatrulla,,"{""area_sr"": 0.00008, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0091, ""elongation_factor"": 1.85}"
+3258866,858,236,"La Charqueada",TT,,-3258866,la.charqueada,UY-TT-LaCharqueada,,"{""area_sr"": 0.00012, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.1, ""side_estim_deg"": 0.0108, ""elongation_factor"": 1.38}"
+3259413,858,211,"María Albina",TT,,-3259413,maria.albina,UY-TT-MariaAlbina,,"{""area_sr"": 0.00005, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0074, ""elongation_factor"": 2.18}"
+3259509,858,214,Mendizábal,TT,,-3259509,mendizabal,UY-TT-Mendizabal,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0067, ""elongation_factor"": 1.76}"
+3257636,858,213,"Poblado Alonzo",TT,,-3257636,poblado.alonzo,UY-TT-PobladoAlonzo,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0028, ""elongation_factor"": 1.01}"
+3257974,858,244,Rincón,TT,RIN,91785399,rincon,UY-TT-Rincon,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.0102, ""elongation_factor"": 1.93}"
+3271283,858,266,"Santa Clara de Olimar",TT,,-3271283,santa.clara.olimar,UY-TT-SantaClaraOlimar,,"{""area_sr"": 0.00034, ""area_km2"": 4, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.9, ""side_estim_deg"": 0.0184, ""elongation_factor"": 2.84}"
+3256072,858,212,"Treinta y Tres",TT,,-3256072,treinta.y.tres,UY-TT-TreintaYTres,,"{""area_sr"": 0.0033, ""area_km2"": 34, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 5.8, ""side_estim_deg"": 0.0574, ""elongation_factor"": 1.68}"
+3239877,858,205,Valentines,TT,,-3239877,valentines,UY-TT-Valentines,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0052, ""elongation_factor"": 1.51}"
+3277248,858,238,Vergara,TT,VRA,2298580,vergara,UY-TT-Vergara,,"{""area_sr"": 0.00032, ""area_km2"": 3, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.8, ""side_estim_deg"": 0.0178, ""elongation_factor"": 1.85}"
+3277342,858,233,"Villa Passano",TT,,-3277342,villa.passano,UY-TT-VillaPassano,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.005, ""elongation_factor"": 1.43}"
+3256210,858,215,"Villa Sara",TT,VSR,91785407,villa.sara,UY-TT-VillaSara,,"{""area_sr"": 0.00016, ""area_km2"": 2, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1.3, ""side_estim_deg"": 0.0126, ""elongation_factor"": 3.04}"

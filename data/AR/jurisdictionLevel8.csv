@@ -1,28 +1,28 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3443435,858,577,Artigas,AR,,-3443435,artigas,UY-AR-Artigas,,
-3444523,858,562,"Baltasar Brum",AR,BBM,805555,baltasar.brum,UY-AR-BaltasarBrum,,
-3456707,858,582,"Bella Unión",AR,BUN,16609550,bella.union,UY-AR-BellaUnion,,
-3458911,858,570,"Bernabé Rivera",AR,,-3458911,bernabe.rivera,UY-AR-BernabeRivera,,
-3459050,858,585,Cainsa,AR,CSA,984850,cainsa,UY-AR-Cainsa,,
-3459084,858,584,Calnu,AR,,-3459084,calnu,UY-AR-Calnu,,
-3460585,858,576,"Cerro Ejido",AR,,-3460585,cerro.ejido,UY-AR-CerroEjido,,
-3460655,858,573,"Cerro San Eugenio",AR,,-3460655,cerro.san.eugenio,UY-AR-CerroSanEugenio,,
-3460706,858,574,"Cerro Signorelli",AR,,-3460706,cerro.signorelli,UY-AR-CerroSignorelli,,
-3460825,858,561,"Colonia Palma",AR,CPA,1110764,colonia.palma,UY-AR-ColoniaPalma,,
-3456708,858,580,Coronado,AR,,-3456708,coronado,UY-AR-Coronado,,
-3456751,858,586,Cuareim,AR,,-3456751,cuareim,UY-AR-Cuareim,,
-3459098,858,569,Cuaró,AR,CRO,984771,cuaro,UY-AR-Cuaro,,
-3462461,858,563,"Diego Lamas",AR,,-3462461,diego.lamas,UY-AR-DiegoLamas,,
-3456752,858,588,Franquia,AR,,-3456752,franquia,UY-AR-Franquia,,
-3462267,858,571,"Javier de Viana",AR,,-3462267,javier.viana,UY-AR-JavierViana,,
-3465194,858,566,"La Bolsa",AR,,-3465194,la.bolsa,UY-AR-LaBolsa,,
-3456709,858,587,"Las Piedras",AR,LPS,984757,las.piedras,UY-AR-LasPiedras,,
-3462335,858,583,"Mones Quintela",AR,MQA,1004955,mones.quintela,UY-AR-MonesQuintela,,
-3462367,858,565,"Paso Campamento",AR,PCO,1004993,paso.campamento,UY-AR-PasoCampamento,,
-3462384,858,578,"Paso Farías",AR,,-3462384,paso.farias,UY-AR-PasoFarias,,
-3460556,858,575,Pintadito,AR,,-3460556,pintadito,UY-AR-Pintadito,,
-3456710,858,581,"Portones de Hierro y Campodónico",AR,,-3456710,portones.hierro.y.campodonico,UY-AR-PortonesHierroYCampodonico,,
-3464956,858,568,"Rincon de Pacheco",AR,,-3464956,rincon.pacheco,UY-AR-RinconPacheco,,
-3462426,858,564,Sequeira,AR,,-3462426,sequeira,UY-AR-Sequeira,,
-3457022,858,579,"Tomás Gomensoro",AR,TGO,1313974,tomas.gomensoro,UY-AR-TomasGomensoro,,
-3462435,858,572,Topador,AR,,-3462435,topador,UY-AR-Topador,,
+3443435,858,577,Artigas,AR,,-3443435,artigas,UY-AR-Artigas,,"{""area_sr"": 0.0014, ""area_km2"": 15, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 3.9, ""side_estim_deg"": 0.0375, ""elongation_factor"": 1.58}"
+3444523,858,562,"Baltasar Brum",AR,BBM,805555,baltasar.brum,UY-AR-BaltasarBrum,,"{""area_sr"": 0.00024, ""area_km2"": 3, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 1.6, ""side_estim_deg"": 0.0156, ""elongation_factor"": 1.34}"
+3456707,858,582,"Bella Unión",AR,BUN,16609550,bella.union,UY-AR-BellaUnion,,"{""area_sr"": 0.00075, ""area_km2"": 8, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0273, ""elongation_factor"": 1.25}"
+3458911,858,570,"Bernabé Rivera",AR,,-3458911,bernabe.rivera,UY-AR-BernabeRivera,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.7, ""side_estim_deg"": 0.0066, ""elongation_factor"": 1.16}"
+3459050,858,585,Cainsa,AR,CSA,984850,cainsa,UY-AR-Cainsa,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0056, ""elongation_factor"": 2.22}"
+3459084,858,584,Calnu,AR,,-3459084,calnu,UY-AR-Calnu,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0055, ""elongation_factor"": 1.31}"
+3460585,858,576,"Cerro Ejido",AR,,-3460585,cerro.ejido,UY-AR-CerroEjido,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0034, ""elongation_factor"": 1.27}"
+3460655,858,573,"Cerro San Eugenio",AR,,-3460655,cerro.san.eugenio,UY-AR-CerroSanEugenio,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0047, ""elongation_factor"": 1.32}"
+3460706,858,574,"Cerro Signorelli",AR,,-3460706,cerro.signorelli,UY-AR-CerroSignorelli,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0027, ""elongation_factor"": 1.52}"
+3460825,858,561,"Colonia Palma",AR,CPA,1110764,colonia.palma,UY-AR-ColoniaPalma,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.005, ""elongation_factor"": 1.87}"
+3456708,858,580,Coronado,AR,,-3456708,coronado,UY-AR-Coronado,,"{""area_sr"": 0.00117, ""area_km2"": 12, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 3.5, ""side_estim_deg"": 0.0342, ""elongation_factor"": 0.93}"
+3456751,858,586,Cuareim,AR,,-3456751,cuareim,UY-AR-Cuareim,,"{""area_sr"": 0.00044, ""area_km2"": 5, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 2.2, ""side_estim_deg"": 0.0211, ""elongation_factor"": 1.41}"
+3459098,858,569,Cuaró,AR,CRO,984771,cuaro,UY-AR-Cuaro,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0031, ""elongation_factor"": 2.04}"
+3462461,858,563,"Diego Lamas",AR,,-3462461,diego.lamas,UY-AR-DiegoLamas,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0032, ""elongation_factor"": 2.03}"
+3456752,858,588,Franquia,AR,,-3456752,franquia,UY-AR-Franquia,,"{""area_sr"": 0.00268, ""area_km2"": 29, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 5.3, ""side_estim_deg"": 0.0517, ""elongation_factor"": 1.47}"
+3462267,858,571,"Javier de Viana",AR,,-3462267,javier.viana,UY-AR-JavierViana,,"{""area_sr"": 0.00004, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.006, ""elongation_factor"": 2.5}"
+3465194,858,566,"La Bolsa",AR,,-3465194,la.bolsa,UY-AR-LaBolsa,,"{""area_sr"": 0, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.2, ""side_estim_deg"": 0.0016, ""elongation_factor"": 1.43}"
+3456709,858,587,"Las Piedras",AR,LPS,984757,las.piedras,UY-AR-LasPiedras,,"{""area_sr"": 0.00008, ""area_km2"": 1, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.9, ""side_estim_deg"": 0.0088, ""elongation_factor"": 0.93}"
+3462335,858,583,"Mones Quintela",AR,MQA,1004955,mones.quintela,UY-AR-MonesQuintela,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0048, ""elongation_factor"": 1.13}"
+3462367,858,565,"Paso Campamento",AR,PCO,1004993,paso.campamento,UY-AR-PasoCampamento,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.005, ""elongation_factor"": 1.65}"
+3462384,858,578,"Paso Farías",AR,,-3462384,paso.farias,UY-AR-PasoFarias,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0027, ""elongation_factor"": 1.62}"
+3460556,858,575,Pintadito,AR,,-3460556,pintadito,UY-AR-Pintadito,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0049, ""elongation_factor"": 2.53}"
+3456710,858,581,"Portones de Hierro y Campodónico",AR,,-3456710,portones.hierro.y.campodonico,UY-AR-PortonesHierroYCampodonico,,"{""area_sr"": 0.00114, ""area_km2"": 12, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 3.5, ""side_estim_deg"": 0.0338, ""elongation_factor"": 1.5}"
+3464956,858,568,"Rincon de Pacheco",AR,,-3464956,rincon.pacheco,UY-AR-RinconPacheco,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0046, ""elongation_factor"": 2.36}"
+3462426,858,564,Sequeira,AR,,-3462426,sequeira,UY-AR-Sequeira,,"{""area_sr"": 0.00073, ""area_km2"": 8, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0271, ""elongation_factor"": 1.88}"
+3457022,858,579,"Tomás Gomensoro",AR,TGO,1313974,tomas.gomensoro,UY-AR-TomasGomensoro,,"{""area_sr"": 0.00018, ""area_km2"": 2, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 1.4, ""side_estim_deg"": 0.0133, ""elongation_factor"": 1.88}"
+3462435,858,572,Topador,AR,,-3462435,topador,UY-AR-Topador,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 0.4, ""side_estim_deg"": 0.0037, ""elongation_factor"": 2.02}"

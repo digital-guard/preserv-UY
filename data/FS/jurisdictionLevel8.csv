@@ -1,7 +1,7 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2644323,858,364,Andresito,FS,ATO,503373,andresito,UY-FS-Andresito,,
-2644278,858,347,"Cerro Colorado",FS,CCO,1055816,cerro.colorado,UY-FS-CerroColorado,,
-2644264,858,350,"Ismael Cortinas",FS,ICS,1020807,ismael.cortinas,UY-FS-IsmaelCortinas,,
-2644253,858,335,"Juan José Castro",FS,,-2644253,juan.jose.castro,UY-FS-JuanJoseCastro,,
-2643914,858,346,"La Casilla",FS,,-2643914,la.casilla,UY-FS-LaCasilla,,
-2643800,858,348,Trinidad,FS,,-2643800,trinidad,UY-FS-Trinidad,,
+2644323,858,364,Andresito,FS,ATO,503373,andresito,UY-FS-Andresito,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0055, ""elongation_factor"": 2.04}"
+2644278,858,347,"Cerro Colorado",FS,CCO,1055816,cerro.colorado,UY-FS-CerroColorado,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0028, ""elongation_factor"": 1.85}"
+2644264,858,350,"Ismael Cortinas",FS,ICS,1020807,ismael.cortinas,UY-FS-IsmaelCortinas,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 1, ""side_estim_deg"": 0.0098, ""elongation_factor"": 2.13}"
+2644253,858,335,"Juan José Castro",FS,,-2644253,juan.jose.castro,UY-FS-JuanJoseCastro,,"{""area_sr"": 0.00002, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.5, ""side_estim_deg"": 0.0049, ""elongation_factor"": 2.14}"
+2643914,858,346,"La Casilla",FS,,-2643914,la.casilla,UY-FS-LaCasilla,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.0034, ""elongation_factor"": 1.36}"
+2643800,858,348,Trinidad,FS,,-2643800,trinidad,UY-FS-Trinidad,,"{""area_sr"": 0.00064, ""area_km2"": 7, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.6, ""side_estim_deg"": 0.0252, ""elongation_factor"": 1.67}"
