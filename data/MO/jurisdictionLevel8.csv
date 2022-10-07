@@ -1,2 +1,2 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2929054,858,504,Montevideo,MO,MVD,1335,montevideo,UY-MO-Montevideo,,"{""area_sr"": 0.05206, ""area_km2"": 528, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 23, ""side_estim_deg"": 0.2282, ""elongation_factor"": 2.63}"
+2929054,858,1,MONTEVIDEO,MO,MON,1335,montevideo,UY-MO-Montevideo,,"{""area_sr"": 0.02229, ""area_km2"": 226, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 15, ""side_estim_deg"": 0.1493, ""elongation_factor"": 6.17}"
