@@ -1,0 +1,28 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=4326
+
+files:
+- file: 2e60c6698006f870b6ff03532fee6c38501beaa0ca716f908e4a48854ee851da.zip
+  name: arquivos.zip
+  p: 1
+
+license_evidences:
+    definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
+    uri_evidency: http://web.archive.org/web/20220418172356/https://opendatacommons.org/licenses/odbl/
+
+layers:
+  geoaddress:
+    subtype: full
+    method: csv2sql
+    file: 1
+    sql_view: |-
+            SELECT row_number() OVER () AS gid, 
+            punto_wkb,codigo_postal,codigo_via,nombre_via as via_name,
+            num_puerta || ' ' || letra_puerta as house_numbe,
+            km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad,departamento, 
+            ST_SetSRID(ST_MakePoint(latitud,longitud),$(srid)) 
+            FROM $(tabname)
+    orig_filename: uniao
