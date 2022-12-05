@@ -5,7 +5,7 @@ schemaId_template: ref027a
 codec:descr_encode: srid=4326
 
 files:
-- file: 2e60c6698006f870b6ff03532fee6c38501beaa0ca716f908e4a48854ee851da.zip
+- file: 2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip
   name: arquivos.zip
   p: 1
 
@@ -19,10 +19,10 @@ layers:
     method: csv2sql
     file: 1
     sql_view: |-
-            SELECT row_number() OVER () AS gid, 
-            punto_wkb,codigo_postal,codigo_via,nombre_via as via_name,
-            num_puerta || ' ' || letra_puerta as house_numbe,
-            km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad,departamento, 
-            ST_SetSRID(ST_MakePoint(latitud,longitud),$(srid)) 
+            SELECT row_number() OVER () AS gid, \
+            punto_wkb,codigo_postal,codigo_via,nombre_via as via_name, \
+            num_puerta || ' ' || letra_puerta as house_numbe, \
+            km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
+            ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \
             FROM $(tabname)
     orig_filename: uniao
