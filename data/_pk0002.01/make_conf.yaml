@@ -21,7 +21,7 @@ layers:
     sql_view: |-
             SELECT row_number() OVER () AS gid, \
             punto_wkb,codigo_postal,codigo_via,nombre_via as via_name, \
-            num_puerta || ' ' || letra_puerta as house_numbe, \
+            num_puerta || ' ' || letra_puerta as house_number, \
             km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
             ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \
             FROM $(tabname)
