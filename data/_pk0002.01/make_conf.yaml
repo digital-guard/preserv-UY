@@ -21,7 +21,7 @@ layers:
     sql_view: |-
             SELECT row_number() OVER () AS gid, \
             punto_wkb,codigo_postal,codigo_via,nombre_via as via, \
-            concat(num_puerta, ' ', letra_puerta) as house_number, \
+            concat(num_puerta, ' ', letra_puerta) as hnum, \
             km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
             ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \
             FROM $(tabname)
@@ -29,7 +29,7 @@ layers:
     standardized_fields:
      - 
       name: concat(num_puerta, ' ', letra_puerta)
-      standard: house_number
+      standard: hnum
      - 
       name: nombre_via
       standard: via

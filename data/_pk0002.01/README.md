@@ -30,7 +30,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 Nombre del archivo: `uniao`.<br/>*Descarga* e integridad: [2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip](http://dl.digital-guard.org/2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip)<br/>Descripción: arquivos.zip<br/>Formato: csv<br/>SRID: 4326
 
 #### Datos relevantes
-* `concat(num_puerta, ' ', letra_puerta)` (house_number)
+* `concat(num_puerta, ' ', letra_puerta)` (hnum)
 
 * `nombre_via` (via)
 
@@ -72,7 +72,7 @@ psql postgres://postgres@localhost/ingest1 -c "SELECT ingest.fdw_generate_direct
 
 psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk85800000201101_p1_geoaddress AS SELECT row_number() OVER () AS gid, \
 punto_wkb,codigo_postal,codigo_via,nombre_via as via, \
-concat(num_puerta, ' ', letra_puerta) as house_number, \
+concat(num_puerta, ' ', letra_puerta) as hnum, \
 km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
 ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \
 FROM $(tabname)"
