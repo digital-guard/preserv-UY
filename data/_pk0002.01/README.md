@@ -32,7 +32,7 @@ Nombre del archivo: `uniao`.<br/>*Descarga* e integridad: [2939e7ae1ee8801dd1061
 #### Datos relevantes
 * `concat(num_puerta, ' ', letra_puerta)` (house_number)
 
-* `nombre_via` (via_name)
+* `nombre_via` (via)
 
 * `localidad` (city_name)
 
@@ -71,7 +71,7 @@ psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spati
 psql postgres://postgres@localhost/ingest1 -c "SELECT ingest.fdw_generate_direct_csv( '/tmp/sandbox/_pk85800000201_001/uniao.csv', 'pk85800000201101_p1_geoaddress' )"
 
 psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk85800000201101_p1_geoaddress AS SELECT row_number() OVER () AS gid, \
-punto_wkb,codigo_postal,codigo_via,nombre_via as via_name, \
+punto_wkb,codigo_postal,codigo_via,nombre_via as via, \
 concat(num_puerta, ' ', letra_puerta) as house_number, \
 km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
 ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \

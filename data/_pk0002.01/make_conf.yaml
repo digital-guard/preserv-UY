@@ -20,7 +20,7 @@ layers:
     file: 1
     sql_view: |-
             SELECT row_number() OVER () AS gid, \
-            punto_wkb,codigo_postal,codigo_via,nombre_via as via_name, \
+            punto_wkb,codigo_postal,codigo_via,nombre_via as via, \
             concat(num_puerta, ' ', letra_puerta) as house_number, \
             km,manzana,solar,nombre_inmueble,localidad as city_name, codigo_localidad, departamento, \
             ST_SetSRID(ST_MakePoint(longitud::float,latitud::float),$(srid)) as geom \
@@ -32,7 +32,7 @@ layers:
       standard: house_number
      - 
       name: nombre_via
-      standard: via_name
+      standard: via
      - 
       name: localidad
       standard: city_name
