@@ -8,6 +8,7 @@ files:
 - file: 2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip
   name: arquivos.zip
   p: 1
+  size: 38567969
 
 license_evidences:
     definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
