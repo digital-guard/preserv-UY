@@ -51,6 +51,9 @@ Nombre del archivo: `uniao`<br/>*Descarga* e integridad: [2939e7ae1ee8801dd10619
 #### Filtrado de resultados y su publicación
 51549815 bytes (49.16 <abbr title="mebibyte">MiB</abbr>)<br/>958576 pontos<br/>densidad media: 900.55 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.01/geoaddress](https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.01/geoaddress)
 
+#### Visualización
+[https://viz.addressforall.org/UY/_pk0002.01/geoaddress](https://viz.addressforall.org/UY/_pk0002.01/geoaddress)
+
 # Evidencia de prueba
 <img src="evidencia.png" width="400"/>
 
