@@ -1,0 +1,51 @@
+pack_id: 2.2
+pkversion: 001
+schemaId_input:    ref027a  # ID do JSON-schema de input, ref no primeiro template a usar este padrão de input.
+schemaId_template: ref027a  # ID do makefile.mustache, ref no primeiro package a usar o template.
+codec:descr_encode: srid=32721
+
+files:
+- file: 64daddb011e54b8ec3508088a961d3bbfa6e0671bd7435ca0dc77ecb5967614c.7z
+  name: Arquivos
+  p: 1
+
+layers:
+  via: 
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_select: ['gid', 'idcalle', 'nombre AS via', 'tipo_viali','tipo_via_1', 'geom']
+    orig_filename: Direcciones UY/Ejes_calle
+    standardized_fields:
+     -
+      name: nombre
+      standard: via
+    other_fields:
+     -
+      name: idcalle
+     -
+      name: tipo_viali
+     -
+      name: tipo_via_1
+
+  geoaddress:
+    subtype: full
+    method: shp2sql
+    file: 1
+    #sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
+    sql_view: SELECT gid, id, idcalle, numero || ' ' || letra as hnum, cp, nombre as via, geom from $(tabname)
+    orig_filename: Direcciones UY/Direcciones
+    standardized_fields:
+     -
+      name: numero
+      standard: hnum
+     -
+      name: nombre
+      standard: via
+    other_fields:
+     -
+      name: id
+     -
+      name: idcalle
+     -
+      name: cp
