@@ -9,6 +9,10 @@ files:
   name: Arquivos
   p: 1
 
+license_evidences:
+  definition: [Implied CC-BY, by, 'https://creativecommons.org/licenses/by/4.0/']
+  file: 21dd7133c71ad700cd55f6856189eb1f2e578e52291a52f6e350ee54dc72e80c.pdf
+
 layers:
   via: 
     subtype: full
