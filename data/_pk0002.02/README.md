@@ -5,7 +5,7 @@
 <tr><td>
 Donante: <a rel="external" target="_doador" href="https://catalogodatos.gub.uy/dataset/ide-direcciones-geograficas-del-uruguay">Administración Nacional de Correos</a>
 <br/>&nbsp; <small>RUT 214130990011</small> • Wikidata <a rel="external" target="_doador" title="Enlace del descriptor Wikidata del donante" href="https://www.wikidata.org/wiki/Q5172888">Q5172888</a></small><br/>
-Licencia <a rel="external" target="_doador" href="https://dl.digital-guard.org/21dd7133c71ad700cd55f6856189eb1f2e578e52291a52f6e350ee54dc72e80c.pdf"><b>Implied CC-BY</b></a> (by)<br/>
+Licencia <a rel="external" target="_doador" href="https://dl.digital-guard.org/e40a8eae6ab287564b7eddb6f56ed7ba84678e2960320565e2371f3d3ffcdaee.pdf"><b>Implied CC-BY</b></a> (by)<br/>
 Obtido via <i>e-mail</i> em <b>21/07/2024</b> por:
 <br/>&nbsp; Avaliação técnica: <a rel="external" target="_gitPerson" title="Usuario de Git" href="https://github.com/crebollobr">crebollobr</a>
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
