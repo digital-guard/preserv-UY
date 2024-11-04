@@ -39,8 +39,8 @@ layers:
     subtype: ext
     method: shp2sql
     file: 1
-    sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
-    #sql_view: SELECT gid, id, idcalle, numero || ' ' || letra as hnum, cp, nombre as via, geom from $(tabname)
+    #sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
+    sql_view: SELECT gid, id, idcalle, CASE WHEN numero is NULL THEN '' WHEN letra is NULL THEN TO_CHAR(numero, 'FM999999999') ELSE numero || ',' || letra END as hnum, cp, nombre as via, geom from $(tabname)
     orig_filename: Direcciones_pais
     join_id: idcalle
     standardized_fields:
