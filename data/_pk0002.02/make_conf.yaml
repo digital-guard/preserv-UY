@@ -61,9 +61,8 @@ layers:
     subtype: full
     method: shp2sql
     file: 1
-    sql_view: SELECT select distinct idcalle, localidad, departamen, cloc_iso from $(tabname)
+    sql_view: SELECT distinct idcalle, localidad, departamen, cloc_iso from $(tabname)
     orig_filename: Ejes_20241007_codigoISO
     join_id: idcalle
-    standardized_fields:
 
 test_evidence: qgis.png
