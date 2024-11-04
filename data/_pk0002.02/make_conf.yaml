@@ -1,12 +1,12 @@
 pack_id: 2.2
-pkversion: 001
+pkversion: 002
 schemaId_input:    ref027a  # ID do JSON-schema de input, ref no primeiro template a usar este padrão de input.
 schemaId_template: ref027a  # ID do makefile.mustache, ref no primeiro package a usar o template.
 codec:descr_encode: srid=32721
 
 files:
-- file: 64daddb011e54b8ec3508088a961d3bbfa6e0671bd7435ca0dc77ecb5967614c.7z
-  name: Arquivos
+- file: bb975aced997119b9b381f0b78045fb8fe3dd322067d62e7e2cd17bb8b92d748.zip
+  name: Ejes_Y_Direcciones_IDE.zip
   p: 1
 
 license_evidences:
@@ -17,8 +17,9 @@ layers:
     subtype: full
     method: shp2sql
     file: 1
-    sql_select: ['gid', 'idcalle', 'nombre AS via', 'tipo_viali','tipo_via_1', 'geom']
-    orig_filename: Direcciones UY/Ejes_calle
+    sql_select: ['gid', 'idcalle', 'nombre AS via', 'tipo_viali','tipo_via_1', 'localidad as localidade', 'departamen as departamento' , 'geom']
+    orig_filename: Ejes_20241007_codigoISO
+    join_id: idcalle
     standardized_fields:
      -
       name: nombre
@@ -27,17 +28,21 @@ layers:
      -
       name: idcalle
      -
+      name: localidad
+     -
+      name: departamento
+     -
       name: tipo_viali
      -
       name: tipo_via_1
 
   geoaddress:
-    subtype: full
+    subtype: ext
     method: shp2sql
     file: 1
     #sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
     sql_view: SELECT gid, id, idcalle, numero || ' ' || letra as hnum, cp, nombre as via, geom from $(tabname)
-    orig_filename: Direcciones UY/Direcciones
+    orig_filename: Direcciones_pais
     standardized_fields:
      -
       name: numero
@@ -52,4 +57,13 @@ layers:
       name: idcalle
      -
       name: cp
+  address: 
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_view: SELECT select distinct idcalle, localidad, departamen, cloc_iso from $(tabname)
+    orig_filename: Ejes_20241007_codigoISO
+    join_id: idcalle
+    standardized_fields:
+
 test_evidence: qgis.png
