@@ -19,7 +19,6 @@ layers:
     file: 1
     sql_select: ['gid', 'idcalle', 'nombre AS via', 'tipo_viali','tipo_via_1', 'localidad as localidade', 'departamen as departamento' , 'geom']
     orig_filename: Ejes_20241007_codigoISO
-    join_id: idcalle
     standardized_fields:
      -
       name: nombre
@@ -40,9 +39,10 @@ layers:
     subtype: ext
     method: shp2sql
     file: 1
-    #sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
-    sql_view: SELECT gid, id, idcalle, numero || ' ' || letra as hnum, cp, nombre as via, geom from $(tabname)
+    sql_select: ['gid','id','idcalle','numero as hnum','letra','cp','nombre as via', 'geom']
+    #sql_view: SELECT gid, id, idcalle, numero || ' ' || letra as hnum, cp, nombre as via, geom from $(tabname)
     orig_filename: Direcciones_pais
+    join_id: idcalle
     standardized_fields:
      -
       name: numero
@@ -58,7 +58,7 @@ layers:
      -
       name: cp
   address: 
-    subtype: full
+    subtype: cmpl
     method: shp2sql
     file: 1
     sql_view: SELECT distinct idcalle, localidad, departamen, cloc_iso from $(tabname)
