@@ -11,7 +11,8 @@ Obtido via <i>e-mail</i> em <b>21/07/2024</b> por:
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
 </td></tr>
 <tr><td>Camadas: <a title="via" href="#-via"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/></a> <a title="address" href="#-address"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/></a> <a title="geoaddress" href="#-geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> </td></tr>
-
+<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.02">preservCutGeo-UY2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
+<tr><td>Visualización: </td></tr>
 </table>
 </aside>
 
@@ -34,18 +35,16 @@ Nombre del archivo: `Direcciones_pais`<br/>*Descarga* e integridad: [bb975aced99
 
 * `nombre` (via)
 
+* `cp` (cep)
+
 #### Otros datos relevantes
 * `id`
 * `idcalle`
-* `cp`
 
 <br/>Complementado por [address](#-address) a través de `idcalle` y `idcalle`
 
-## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
-
-Nombre del archivo: `Ejes_20241007_codigoISO`<br/>*Descarga* e integridad: [bb975aced997119b9b381f0b78045fb8fe3dd322067d62e7e2cd17bb8b92d748.zip](https://dl.digital-guard.org/bb975aced997119b9b381f0b78045fb8fe3dd322067d62e7e2cd17bb8b92d748.zip)<br/>Descripción: Ejes_Y_Direcciones_IDE.zip<br/>Formato: shp<br/>SRID: 32721
-
-Complementos [geoaddress](#-geoaddress) a través de `idcalle` y `idcalle`
+#### Filtrado de resultados y su publicación
+50360946 bytes (48.03 <abbr title="mebibyte">MiB</abbr>)<br/>936479 pontos<br/>densidad media: 876.84 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.02/geoaddress](https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.02/geoaddress)
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/> via
 
@@ -60,6 +59,15 @@ Nombre del archivo: `Ejes_20241007_codigoISO`<br/>*Descarga* e integridad: [bb97
 * `departamento`
 * `tipo_viali`
 * `tipo_via_1`
+
+#### Filtrado de resultados y su publicación
+45488346 bytes (43.38 <abbr title="mebibyte">MiB</abbr>)<br/>234630 segmentos con 75372.99 <abbr title="quilômetros">km</abbr><br/>densidad media: 2.87 segmentos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.02/via](https://git.digital-guard.org/preservCutGeo-UY2021/tree/main/data/_pk0002.02/via)
+
+## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
+
+Nombre del archivo: `Ejes_20241007_codigoISO`<br/>*Descarga* e integridad: [bb975aced997119b9b381f0b78045fb8fe3dd322067d62e7e2cd17bb8b92d748.zip](https://dl.digital-guard.org/bb975aced997119b9b381f0b78045fb8fe3dd322067d62e7e2cd17bb8b92d748.zip)<br/>Descripción: Ejes_Y_Direcciones_IDE.zip<br/>Formato: shp<br/>SRID: 32721
+
+Complementos [geoaddress](#-geoaddress) a través de `idcalle` y `idcalle`
 
 # Evidencia de prueba
 <img src="qgis.png" width="400"/>
