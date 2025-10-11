@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3638334,858,185,ACEGUA,CL,ACE,-185,acegua,UY-CL-Acegua,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.01, ""elongation_factor"": 3.35}"
+3638334,858,185,ACEGUA,CL,ACE,-185,acegua,UY-CL-Acegua,,"{""area_sr"": 0.0001, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 1, ""side_estim_deg"": 0.01, ""elongation_factor"": 3.35, ""shares_border_with"": [""BR-RS-Acegua""]}"
 3640485,858,175,ARACHANIA,CL,ANI,-175,arachania,UY-CL-Arachania,,"{""area_sr"": 0.00001, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.3, ""side_estim_deg"": 0.003, ""elongation_factor"": 1.14}"
 3640638,858,179,ARBOLITO,CL,ARB,-179,arbolito,UY-CL-Arbolito,,"{""area_sr"": 0.00006, ""area_km2"": 1, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.8, ""side_estim_deg"": 0.0075, ""elongation_factor"": 2.86}"
 3672061,858,166,AREVALO,CL,ALO,-166,arevalo,UY-CL-Arevalo,,"{""area_sr"": 0.00003, ""area_km2"": 0, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 0.6, ""side_estim_deg"": 0.0059, ""elongation_factor"": 2.78}"
